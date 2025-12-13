@@ -20,7 +20,7 @@ As they do so, the brains develop constraints that guard against loss of prestig
 AIs are not yet guarding their reputation in this way. 
 They don't develop the set of commonsense constraints, and they seem stupid.
 
-###Goals
+### Goals
 This project is motivated by an attempt to:
 - Address bottlenecks in AI development including alignment, hallucination, and jagged intelligence
 - Harden human communties against highly capable, and potentially malign AIs
