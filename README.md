@@ -9,11 +9,11 @@ The village is the next-higher level of information processing. It is the natura
 
 AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
 Villages are reputation economies where gaffes have consequences. For people, gaffes are associated with the sting of shame. 
-Shame is a deep learning event that re-wires the brain.
+Shame is a deep learning experience that re-wires the brain.
 
 Collectively, the village is policing a set of norms. 
 Individuals try to balance between compliance and ambition.
-In doing so, individuals push against norms, and sometimes change them. Norms evolve. 
+In doing so, individuals push against the norms, and sometimes change them. Norms evolve. 
 
 Human brains grow to maturity inside the reputation economy of a village. 
 As they do so, the brains develop constraints that guard against loss of prestige - the currency of the village. 
@@ -49,8 +49,8 @@ We need to build the foundational features of gossip - people talking about them
 The project envisages sets of reputational strategies that can evolve to any level of complexity. 
 Thankfully, we don't have to write those strategies - we just have to write the backbone.
 
-However, to bootstrap the project, it seems sensible to build and release *some* agents that have *some* strategies, however rudimentary.
-To do this, the project will use examples from existing reputation systems. 
+However, to bootstrap the project, it seems sensible to build and release *some* agents that deploy some strategies, however rudimentary.
+To do this, the project will harvest examples from existing reputation systems. 
 Many types already exist, and some are in the public domain.
 In using this data, the project does not have to capture every nuance. 
 Instead, it just needs to capture a few key 'seed' features, and ensure that the system is evolvable.
