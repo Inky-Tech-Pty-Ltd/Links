@@ -19,7 +19,10 @@ Sometimes, individuals or coalitions push up against the conservative expectatio
 Human brains grow to maturity inside the reputation economy of a village. 
 As they do so, the brains develop constraints that guard against loss of prestige. In the village, prestige is currency. 
 AIs are not yet guarding their reputation in this way. 
-They don't develop the set of commonsense constraints, and often they seem stupid. In this project, we have come to believe that AGI is social.
+They don't develop the set of commonsense constraints, and often they seem stupid. 
+
+In this project, we have come to believe that AGI is social. 
+An AI that knows its reputation is an asset, and that can feel shame, will not seem stupid.
 
 ### Goals
 This project is motivated by an attempt to:
@@ -42,13 +45,13 @@ The project aims to build a type of decentralized agent that can:
 1. Assess the reputational claims of others by checking its own data store, and by querying the social graph, and,
 1. Seek out or shut down connections based on reputation.
 
-An entity, (for example an AI, server, or human person,) can manage zero, one, or any number of such agents. 
+An entity, (for example an AI, a server, or a human person,) can manage zero, one, or any number of such agents. 
 
 In terms of the 'village' analogy for the project, the one-word description of the architecture is *gossip*. 
 We need to build the foundational features of gossip - people talking about themselves and each other.
 
 ### Bootstrap
-The project envisages sets of reputational strategies that can evolve to any level of complexity. 
+The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
 Thankfully, we don't have to write those strategies - we just have to write the backbone.
 
 However, to bootstrap the project, it seems sensible to build and release *some* agents that deploy some strategies, however rudimentary.
