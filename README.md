@@ -28,7 +28,7 @@ An AI that knows its reputation is an asset, and that can feel shame, will not s
 ### Goals
 This project is motivated by an attempt to:
 1. Address bottlenecks in AI development including alignment, context drift, hallucination, and jagged intelligence
-1. Harden communties against highly capable, and potentially malign AIs
+1. Harden communities against highly capable, and potentially malign AIs
 1. Create a new/old toolkit for thinking about:
    * Identity,
    * Reputation,
