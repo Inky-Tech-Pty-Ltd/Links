@@ -5,16 +5,17 @@ A project for building villages.
 www.village.link
 
 ### Villages and Artificial Intelligence
-AIs are modelled on the brain. In a social species like our own, brains are organised into communities, villages. 
-The village is the next-higher level of information processing. It is the natural repository of common sense, of culture. 
+AIs are modelled on the brain. In a social species like our own, brains are organised into communities, into villages. 
+The village is the next-higher-up level of information processing after the brain. It is the natural repository of common sense, of culture. 
 
 AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
 A village is a reputation economy, where gaffes have consequences. 
-For mortals like you and me, social gaffes are associated with the sting of shame.
+For flesh-and-blood intelligences like you and me, gaffes are associated with the sting of shame. 
+Our reputation is an asset. If we conpromise that asset, it feels terrible.
 Shame is a deep learning experience that re-wires the brain. 
 
 Collectively, the village is policing a set of norms. 
-In this world, each individual must try to find a balance between compliance and ambition.
+In this world, each individual must find a balance between compliance and ambition.
 Sometimes, individuals or coalitions push up against the conservative expectations of the village and manage to change the accepted norms. Norms can evolve. 
 
 Human brains grow to maturity inside the reputation economy of a village. 
@@ -22,34 +23,37 @@ As they do so, the brains develop constraints that guard against loss of prestig
 AIs are not yet guarding their reputation in this way. 
 They don't develop the set of commonsense constraints, and often they seem stupid. 
 
-In this project, we have come to believe that AGI is social. 
-An AI that knows its reputation is an asset, and that can feel shame, will not seem stupid.
+Part of the premise of this project is that social constrains will form a useful training franework for AI. 
+We believe the future will include a type of AI that knows its reputation is an asset, and that will have a digital equivalent of shame as part of its reward function. 
+We believe such an AI will have better access to the slippery notion of 'common sense,' will seem less stupid, an is a better chance if aligning its behaviour with village norms.
+
+But we are not proposing to work on such an AI as a first order of business. 
+Instead we want to discover what is universal about human reputation systems and develop a common architecture to support then.
 
 ### Goals
 This project is motivated by an attempt to:
-1. Address bottlenecks in AI development including alignment, context drift, hallucination, and jagged intelligence
-1. Harden communities against highly capable, and potentially malign AIs
+1. Harden communities against a future AI that is highly capable and potentially malign
+2. Address bottlenecks in AI development including alignment, context drift, and jagged intelligence
 1. Create a new/old toolkit for thinking about:
-   * Identity,
-   * Reputation,
-   * Social connections,
-   * Connection weights, and,
-   * Villages, including,
-       * Norms, and the evolution of sets of norms,
-       * Village defences, and,
+   * Identity
+   * Reputation
+   * Social connections
+   * Connection weights
+   * Villages, including
+       * Norms, and the evolution of sets of norms
+       * Village defences
        * Non-zero sum opportunities that leverage both search and reputation in the social graph.
 
 ### Architecture
 The project aims to build a type of decentralized agent that can:
-1. Store reputational information,
-1. Make reputational claims about itself and others,
-1. Assess the reputational claims of others by checking its own data store, and by querying the social graph, and,
+1. Store reputational information
+1. Make reputational claims about itself and others
+1. Assess the reputational claims of others by checking its own data store, and by querying the social graph
 1. Seek out or shut down connections based on reputation.
 
 An entity, (for example an AI, a server, or a human person,) can manage zero, one, or any number of such agents. 
 
-In terms of the 'village' analogy for the project, the one-word description of the architecture is *gossip*. 
-We need to build the foundational features of gossip - people talking about themselves and each other.
+In terms of the 'village' analogy for the project, the one-word description of the architecture is *gossip*.
 
 ### Bootstrap
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
