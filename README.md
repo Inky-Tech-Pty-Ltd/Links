@@ -23,7 +23,7 @@ As they do so, the brains develop constraints that guard against loss of prestig
 AIs are not yet guarding their reputation in this way. 
 They don't develop the set of commonsense constraints, and often they seem stupid. 
 
-Part of the premise of this project is that social constrains will form a useful training framework for AI. 
+One of the premises of this project is that social constrains will form a useful training framework for AI. 
 We believe the future will include a type of AI that knows its reputation is an asset, and that will have a digital equivalent of shame as part of its reward function. 
 We believe such an AI will have better access to the slippery notion of 'common sense'. We think such an AI will seem less stupid, and is a better chance of aligning its behaviour with village norms.
 
