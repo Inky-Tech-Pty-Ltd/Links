@@ -52,7 +52,7 @@ This project is motivated by an attempt to:
 ### Architecture
 The project aims to build a type of decentralized agent that can:
 1. Store reputational information
-1. Make reputational claims about itself and others
+1. Make reputational claims about itself (identity claims,) and about others
 1. Assess the reputational claims of others by checking its own data store, and by querying the social graph
 1. Seek out or shut down connections based on reputation.
 
@@ -76,16 +76,14 @@ There are many places online where Bob can call attention to Alice using the _@A
 If Alice wishes to reply, she can use _@Bob_. 
 Now Bob's agent can make the reputational claim, "I have a connection to Alice, and here's the link to evidence."
 
-* An aside: Identity is a special case of a reputational claim, "I am me."
-
-Now imagine Bob has an existing, robust, connection to Alice, and he asks about Carol.
+Next imagine that Bob has an existing, robust, connection to Alice, and he asks about Carol.
 
 Alice comes back: "Yeah, Carol is a babe. 
 She's _this Carol_ in the village called **Wikipedia.Admins.en** and she's _this Carol_ in the village called **GitHub.PythonProjects** and she's _this Carol_ the **YouTuber**."
 Bob's agent can assess Alice's claims in the graph of hundreds or thousands of Carol's connections. Or rather, amongst those of her connections who will talk to Bob.
 But also, in assessing Alice's claims about Carol, Bob's agent now has access to all of the not-insignificant reputational architecture of Wikipedia, GitHub, YouTube, and so on.
 
-At this point, Bob is somewhat intimidated by Carol, but he is incentivised to reach out to her because he knows she will definitely have the answer to his current, thorny, problem X. 
+At this point, Bob is somewhat intimidated by Carol, but he is incentivised to reach out to her because he can see that she will definitely have the answer to his current, thorny, problem X. 
 Also that if he can establish a connection with her it will bolster his own reputation.
 Bob has risk around the possibility that Carol's agent will block his approach, and even a worse risk that it will publish the fact that the approach was blocked. 
 These are the punishment strategies of the village. Bob needs to assess his risk in the light of his own prestige. 
