@@ -56,7 +56,7 @@ The project aims to build a type of decentralized agent that can:
 1. Assess the reputational claims of others by checking its own data store, and by querying the social graph
 1. Seek out or shut down connections based on reputation.
 
-An entity, (for example an AI, a server, or a human person,) can manage zero, one, or any number of such agents. 
+An entity, (for example an AI, a server, or a human person,) can manage zero, one, or any number of such reputational agents. 
 
 In terms of the 'village' analogy for the project, the one-word description of the architecture is *gossip*.
 
