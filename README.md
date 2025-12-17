@@ -78,14 +78,14 @@ With this data in the public domain, Bob's agent can make the reputational claim
 
 Next imagine that Bob has an existing, robust, connection to Alice, and he asks about Carol.
 
-Alice comes back: "Yeah, Carol is a babe. 
-She's _this Carol_ in the village called **Wikipedia.Admins.en** and she's _this Carol_ in the village called **GitHub.PythonProjects** and she's _this Carol_ the **YouTuber**."
+Alice comes back: "Yeah, Carol's a babe. 
+She is <ins>this Carol</ins> in the village called **Wikipedia.Admins.en** and she is <ins>this Carol</ins> in the village called **GitHub.PythonProjects** and she is <ins>this Carol</ins> the **YouTuber**."
 Bob's agent can assess Alice's claims in the graph of Carol's connections. Or rather, amongst those of Carol's connections who will talk to Bob.
 But also, in assessing Alice's claims about Carol, Bob's agent now has access to all of the not-insignificant reputational architecture of Wikipedia, GitHub, YouTube, and so on.
 
 At this point, Bob is somewhat intimidated by Carol, but he is incentivised to reach out to her because he can see that she will definitely have the answer to his current, thorny, problem X. 
 Also that if he can establish a connection with her it will bolster his own reputation.
-Bob has risk around the possibility that Carol's agent will block his approach, and even a worse risk that it will publish the fact that the approach was blocked. 
+Bob has risk around the possibility that Carol's agent will block his approach; and even worse, a risk that it will publish the fact that the approach was blocked. 
 These are the punishment strategies of the village. Bob needs to assess these risks in the light of his own prestige. 
 
 (But she's a Wikipedia Admin, right? Aren't they bottomlessly generous?)
