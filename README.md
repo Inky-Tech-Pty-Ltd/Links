@@ -2,7 +2,7 @@
 A project for building villages.
 
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/Links%20GitHub%20Banner.jpg)
-www.village.link (This link will become the front page. Currently it points straight back here.)
+www.village.link (This URL will become the front page. Currently it points straight back here.)
 
 ### Villages and Artificial Intelligence
 AIs are modelled on the brain. In a social species like our own, brains are organised into communities, into villages. 
