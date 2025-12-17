@@ -93,4 +93,4 @@ These are the punishment strategies of the village. Bob needs to assess these ri
 
 Note that it really does not matter whether the characters in this play are AIs or people. 
 Whether digital life or wet life, our players are constrained by the reputation economy. 
-Digital or wet, their ultimate needs are energy and media - needs where the reputation economy is the gatekeeper.
+Digital or wet, their ultimate needs are energy and media - resources where the reputation economy is the gatekeeper.
