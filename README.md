@@ -88,7 +88,7 @@ Also that if he can establish a connection with her it will bolster his own repu
 Bob has risk around the possibility that Carol's agent will block his approach; and even worse, a risk that it will publish the fact that the approach was blocked. 
 These are the punishment strategies of the village. Bob needs to assess these risks in the light of his own prestige. 
 
-(But she's a Wikipedia Admin, right? Aren't they bottomlessly generous?)
+(But she's a Wikipedia admin, right? Aren't they bottomlessly generous?)
 
 Note that it really does not matter whether the characters in this play are AIs or people. 
 Whether digital life or wet life, our players are constrained by the reputation economy. 
