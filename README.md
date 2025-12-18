@@ -26,7 +26,7 @@ They are learning the rules.
 The current generation of AIs do not yet guard their reputation in this way. 
 They don't develop the set of commonsense constraints, and often they seem stupid. 
 
-One of the premises of this project is that social constraints will soon form part of the training framework for AI. 
+One of the premises of this project is that social constraints will soon form a part of the training framework for AI. 
 We believe the future will include a type of AI that knows its reputation is an asset, and that will have in its reward function a digital equivalent of shame. 
 We believe such an AI will have better access to the slippery notion of 'common sense'. 
 We think such an AI will seem less stupid, and is a better chance of aligning its behaviour with village norms.
