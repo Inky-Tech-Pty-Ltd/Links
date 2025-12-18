@@ -20,13 +20,13 @@ Sometimes, individuals or coalitions of individuals push up against the village 
 
 Human brains grow to maturity inside the reputation economy of a village. 
 As they do so, the brains develop constraints that guard against loss of prestige. 
-It is telling that teenagers can be acutely vulnerable to shame. 
+It is illustrative that teenagers can be acutely vulnerable to shame. 
 They are learning the rules.
 
 The current generation of AIs do not yet guard their reputation in this way. 
 They don't develop the set of commonsense constraints, and often they seem stupid. 
 
-One of the premises of this project is that social constraints will form a useful training framework for AI. 
+One of the premises of this project is that social constraints will soon form part of the training framework for AI. 
 We believe the future will include a type of AI that knows its reputation is an asset, and that will have in its reward function a digital equivalent of shame. 
 We believe such an AI will have better access to the slippery notion of 'common sense'. 
 We think such an AI will seem less stupid, and is a better chance of aligning its behaviour with village norms.
@@ -75,14 +75,14 @@ Instead, it just needs to capture a few key 'seed' features, and ensure that the
 There are many places online where Bob can call attention to Alice using the _@Alice_ convention. 
 If Alice wishes to reply, she can use _@Bob_. 
 Once this data is in the public domain, Bob's agent can make the reputational claim, "I have a connection to Alice, and here's the link to evidence."
-In isolation, this does not amount to much, but it's part of a web.
+In isolation, this does not amount to much, but it is part of a web.
 
 Next imagine that Bob has an existing, robust, connection to Alice, and he asks about Carol.
 
 Alice comes back: "Yeah, Carol's a babe. 
 She is <ins>this Carol</ins> in the village called **Wikipedia.Admins.en** and she is <ins>this Carol</ins> in the village called **GitHub.PythonProjects** and she is <ins>this Carol</ins>, the **YouTuber**."
-Bob's agent can assess Alice's claims in the graph of Carol's connections ... or rather, amongst those of Carol's connections who will talk to Bob.
-But also, in assessing Alice's claims about Carol, Bob's agent now has access to all of the not-insignificant reputational architecture of Wikipedia, GitHub, YouTube, and maybe more.
+Bob's agent can query Alice's claims in the graph of Carol's connections ... or rather, amongst that part Carol's social graph that is also connected to Bob.
+In assessing Alice's claims about Carol, Bob's agent also has access to all of the not-insignificant reputational architecture of Wikipedia, GitHub, YouTube, and maybe more.
 
 At this point, Bob is somewhat intimidated by Carol, but he has an incentive to contact her because he can see that she will definitely have the answer to his current, thorny, problem X. 
 Also that if he can establish a connection with her it will bolster his own reputation.
@@ -93,9 +93,11 @@ These are the punishment strategies of the village. Bob needs to assess these ri
 
 ### Privacy
 
-Carol has accepted that she will be make reputational statements *in public* whenever she uses Wikipedia, GitHub, or YouTube. 
-She is most likely also a member of some private villages - perhaps her nuclear family, or the village of Carol-and-her-two-besties.
+Carol has accepted that she will be *in public* whenever she uses Wikipedia, GitHub, or YouTube. 
+She is most-likely also a member of some private villages - perhaps her nuclear family, or the village of Carol-and-her-two-besties.
 Inside these villages, it is probable that there is a deeply-held norm that certain types of information are not to be made public.
+Privacy is a norm.
+
 Imagine that one of Carol's besties shares intimate relationship information outside the village.
 This would be a breach. The village would be damaged, and possibly dissolve. 
 All three members would be poorer, and all three would feel mixtures of anger and sadness - strong emotions which, like shame, would re-wire the three brains, potentially forever.
