@@ -45,7 +45,7 @@ This project is motivated by an attempt to:
    * Connection weights
    * Villages, including
        * Norms, and the evolution of sets of norms
-       * Village defences, including the curation of content for vulnerable members
+       * Village defences, including the curation of content for vulnerable members (this is really just a special case of a norm)
        * Non-zero-sum transactional opportunities that leverage both search and reputation in the social graph
        * Support for work on hard problems of coordinated action.
 
