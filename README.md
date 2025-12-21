@@ -107,15 +107,16 @@ Note that it really does not matter whether the characters in these plays are AI
 Whether digital life or wet life, our players are constrained by the reputation economy. 
 Digital or wet, their ultimate needs are energy and media - resources where the network of connections is guarding the store.
 
-### Passwords
-The web is a village. It has a reputation system where Website A connects to Website B with a piece of public data called a hyperlink. 
-Website A is most unlikely to link to the fake Website B. 
-This means that search engines can use the reputation system of a village of sites similar to A to reliably deliver Website B.
+### Symmetrical Authentication
+The web is a village. A key feature of the web is the hyperlink. 
+This was developed by Tim Berners-Lee as a handy way to jump from web page A to a web page B that had useful, related infirmation. 
+A few years later Larry Page and Sergey Brin realised that the hyperlink was also a reputational claim by page A about page B ... 
+also that now there were very many of such claims in the public domain. This allowed Page and Brin to calculate the prestige of page B within its village.
 
-Imagine Website B is Bob's bank. 
-When Bob uses a search engine to find his bank, the next step is an asymmetrical authentication ceremony. 
-The bank asks Bob for a password and a second factor, but Bob does not ask for equivalent information from the bank. 
-This is because Bob found the bank through its reputation system - a web of hyperlinks that has a strong tendency not to connect to the fake bank. 
+Imagine that web page B is Bob's bank. 
+When Bob uses a search engine to find his bank, the next step is an authentication ceremony that is asymmetrical. 
+The bank asks Bob to authenticate, but Bob does not ask the bank. 
+This is because Bob found the bank using search in the social graph of the bank's village. 
 
-This project envisages an authentication ceremony where Bob find the real bank through search in its village *and then* the bank finds the real Bob through search in his village.
-Bob will not need a password.
+This project envisages a symmetrical authentication ceremony where Bob find the real bank in its village *and then* the bank finds the real Bob in his village. 
+Bob will not need a password or 2FA.
