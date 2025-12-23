@@ -6,7 +6,8 @@ www.village.link (This URL will become the front page. Currently it points strai
 
 ### Villages and Artificial Intelligence
 AIs are modelled on the brain. In a social species like our own, brains are organised into communities, into villages. 
-The village is the next-higher-up level of information processing after the brain. It is the natural repository of common sense, of culture. 
+The village is the next-higher-up level of information processing after the brain. It is the natural repository of common sense, of culture.
+Inside a village, we get the satisfaction of being part of something bigger.
 
 AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
 A village is a reputation economy where gaffes have consequences. 
