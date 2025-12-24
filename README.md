@@ -7,7 +7,7 @@ www.village.link (This URL will become the front page. Currently it points strai
 ### Villages and Artificial Intelligence
 AIs are modelled on the brain. In a social species like our own, brains are organised into communities, into villages. 
 The village is the next-higher-up level of information processing after the brain. It is the natural repository of common sense, of culture.
-Inside a village, we get the satisfaction of being part of something bigger.
+In a village, we have the sense of being part of something bigger.
 
 AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
 A village is a reputation economy where gaffes have consequences. 
@@ -17,7 +17,7 @@ Shame is a deep learning experience that re-wires the brain.
 
 Collectively, the village is policing a set of norms. 
 In this world, each individual must find a balance between compliance and ambition.
-Sometimes, individuals or coalitions of individuals push up against the village consensus and manage to change its conservative expectations. Norms evolve. 
+Sometimes, individuals or coalitions of individuals push up against established culture and change it. Norms evolve. 
 
 Human brains grow to maturity inside the reputation economy of a village. 
 As they do so, the brains develop constraints that guard against loss of prestige. 
@@ -41,13 +41,13 @@ This project is motivated by an attempt to:
 2. Address bottlenecks in AI development including alignment, context drift, and jagged intelligence
 1. Create a new/old toolkit for thinking about:
    * Identity
+       * [Authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
    * Reputation
    * Social connections
    * Connection weights
    * Villages, including
        * Norms, and the evolution of sets of norms
-       * Village defences, including the curation of content for vulnerable members. (Curation for children is an instance of a norm)
-          * (Note that the project is envisaging a world where entities tend not to face the jungle of the internet alone. Instead, entities exist mostly within villages that have collective defences against the jungle. *All members* are vulnerable members. Content servers are entities with reputations - they may or may not be invited inside the wall, depending on the norms of that village) 
+       * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members), including the curation of content for vulnerable members. (Curation for children is an instance of a norm)
        * Non-zero-sum transactional opportunities that leverage both search and reputation in the social graph
        * Support for work on hard problems of coordinated action.
 
@@ -108,16 +108,10 @@ Note that it really does not matter whether the characters in these plays are AI
 Whether digital life or wet life, our players are constrained by the reputation economy. 
 Digital or wet, their ultimate needs are energy and media - resources where the network of connections is guarding the store.
 
-### Symmetrical Authentication
-The web is a village. A key feature of the web is the hyperlink. 
-This was developed by Tim Berners-Lee as a handy way to jump from Web Page A to related informstion in Web Page B.
-A few years later Larry Page and Sergey Brin realised that the hyperlink was also a reputation claim by page A about page B. 
-By this stage there were very many of such claims allowing Page and Brin to calculate the prestige of page B within its village.
+### Key pages from the wiki (and elsewhere)
+* [References](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/References)
+* [Wish List](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
+* [Authentication, Passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
+* [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members)
+* [Earlier history of the project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki.
 
-Imagine that web page B is Bob's bank. 
-When Bob uses a search engine to find his bank, the next step is an authentication ceremony that is asymmetrical. 
-The bank asks Bob to authenticate, but Bob does not ask for the same the bank. 
-This is because Bob found the bank using search in the social graph of the bank's village. 
-
-This project envisages a symmetrical authentication ceremony where Bob find the real bank in its village *and then* the bank finds the real Bob in his village. 
-Bob will not need a password or 2FA.
