@@ -110,8 +110,8 @@ Digital or wet, their ultimate needs are energy and media - resources where the 
 
 ### Key pages from the wiki (and elsewhere)
 * [References](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/References)
-* [Wish List](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
-* [Authentication, Passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
+* [Wish list](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
+* [Authentication, passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
 * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members)
 * [Earlier history of the project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki.
 
