@@ -107,11 +107,15 @@ Note that it really does not matter whether the characters in these plays are AI
 Whether digital life or wet life, our players are constrained by the reputation economy. 
 Digital or wet, their ultimate needs are energy and media - resources where the network of connections is guarding the store.
 
-### Key pages from the wiki (and elsewhere)
+### Links
 * [References](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/References)
 * [Wish list](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
 * [Authentication, passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
 * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
 * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members)
-* [Earlier history of the project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki.
+* [Earlier history of the project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki
+* The natural homes/ecosystems for the project are in:
+  * [Decentralized Trust Working Group in Confluence](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22985064/All+Members+Meeting+Page)
+  * [The same group (roughly) in GitHub](https://github.com/trustoverip/dtgwg-cred-tf/tree/14-revised-vrc-spec---v02). 
+  
 
