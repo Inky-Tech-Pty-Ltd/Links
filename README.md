@@ -53,9 +53,10 @@ The project is motivated by an attempt to:
 ### Architecture
 The project aims to build a type of decentralized agent that can:
 1. Store reputational information
-1. Make reputational claims about itself, (identity claims) and about others
-1. Assess the reputational claims of others by checking its own data store, and by querying the social graph
-1. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation.
+2. Make reputational claims about itself, (identity claims) and about others
+3. Assess the reputational claims of others by checking its own data store, and by querying the social graph
+4. Make decisions about what reputational claims are to be shared with whom
+5. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation.
 
 An entity, (for example an AI, a server, or a human person,) can manage zero, one, or any number of such reputational agents. 
 
