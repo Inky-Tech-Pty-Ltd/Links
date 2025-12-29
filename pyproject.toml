@@ -8,6 +8,7 @@ version = "0.0.1"
 description = "Python scripts for Links repo"
 readme = "README.md"
 requires-python = ">=3.8"
+dependencies = ["pywikibot"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
