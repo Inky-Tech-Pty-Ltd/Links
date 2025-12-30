@@ -65,7 +65,7 @@ The opportunity in the project comes from giving each entity, (human or otherwis
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
 Thankfully, we don't have to write those strategies - we just have to write the foundation.
 
-However, to bootstrap the project, it seems sensible to build and release some agents to their rightful owners.
+However, to [bootstrap the project](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Bootstrap), it seems sensible to build and release some agents to their rightful owners.
 These agents would be equipped with some strategies, however rudimentary.
 To do this, the project will harvest examples from existing reputation systems. 
 Many types already exist, and some are in the public domain.
@@ -118,6 +118,7 @@ Both genes and memes need media and energy - resources where the village is guar
 ### Links
 #### To the project wiki ...
 * [Authentication, passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
+* [Bootstrap strategy](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Bootstrap)
 * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
 * [Jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
 * [References](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/References)
