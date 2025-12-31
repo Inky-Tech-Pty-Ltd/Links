@@ -122,7 +122,7 @@ Both genes and memes need media and energy - resources where the village is guar
 * [Bootstrap strategy](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Bootstrap)
 * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
 * [Jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
-* [References](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/References)
+* [References, Research](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/References)
 * [Search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search)
 * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members)
 * [Wish list](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
