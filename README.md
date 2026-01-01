@@ -35,7 +35,7 @@ But we are not proposing to work on such an AI as a first order of business.
 Instead we want to discover what is universal about human reputation systems and develop a common architecture to support those systems.
 
 ### Goals
-The project is motivated by some big problems. How do we:
+The project is motivated by some big problems. How do we? ...
 1. Harden communities against a future AI that is highly capable and potentially malign
 2. Address bottlenecks in AI development including alignment, context drift, and [jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
 1. Create a new/old toolkit for thinking about:
@@ -47,7 +47,7 @@ The project is motivated by some big problems. How do we:
        * Norms, and the evolution of sets of norms
        * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members), including the curation of content for vulnerable members. (Curation for children is an instance of a norm)
        * Non-zero-sum transactional opportunities that leverage both [search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search) and reputation in the social graph
-       * Support for work on hard problems of coordinated action?
+       * Support for work on hard problems of coordinated action.
 
 ### Architecture
 The project aims to build a type of decentralized agent that can:
@@ -86,8 +86,9 @@ She is <ins>this Carol</ins> in the village called **Wikipedia.Admins.en** and s
 Bob's agent can query Alice's claims in the graph of Carol's connections ... or rather, amongst that part of Carol's social graph that is either privately connected to Bob, or is in the public domain.
 The public information includes the not-insignificant reputational architecture of Wikipedia, GitHub, YouTube, and maybe more.
 
-At this point, Bob is somewhat intimidated by Carol's high prestige, but he has an incentive to contact her because he can see that she will definitely have the answer to his current, thorny, problem X - that is why he accessed the [search function](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search) through Alice. 
-Also that if he can establish a connection with Carol it will bolster his own reputation.
+At this point, Bob is somewhat intimidated by Carol's high prestige, but he has an incentive to contact her because he can see that she will definitely have the answer to his current, thorny, problem X. 
+In the language of the 'Goals' section above, this is an example of a non-zero-sum transactional opportunity.
+It's also the reason that Bob reached-out through the [social search function](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search), where he discovered that his existing connection, Alice, was connected to his problem-solver, Carol. 
 
 Bob has risk around the possibility that Carol's agent will block his approach; and even worse, a risk that it will publish the fact that the approach was blocked. 
 These are the punishment strategies of the village. Bob needs to assess these risks in the light of his own prestige. 
@@ -127,12 +128,17 @@ Both genes and memes need media and energy - resources where the village is guar
 * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members)
 * [Wish list](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
 #### And to elsewhere ...
-* [Earlier history of the project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki
+* [Earlier history of the Links project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki
 * The decentralized reputation explored in this project is adjacent to, but perhaps subtly different from decentralized trust, where there is a significant body of existing work:
   * [Decentralized Trust Working Group in Confluence](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22985064/All+Members+Meeting+Page)
     * [A related repo in GitHub](https://github.com/trustoverip/dtgwg-cred-tf/tree/14-revised-vrc-spec---v02)
   * [AI & Human Trust Working Group](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22982892/AI+Human+Trust+Working+Group)
-  * @Joe-Rasmussen has signed-up to attend weekly meeings of the *Decentralized Trust* and the *AI & Human Trust* working group weekly meetings. These are accessible from a calendar [here](https://zoom-lfx.platform.linuxfoundation.org/meetings/ToIP?view=month).
+  * @Joe-Rasmussen has signed-up to attend weekly meeings of the *Decentralized Trust* and the *AI & Human Trust* working group weekly meetings. These are accessible from a calendar [here](https://zoom-lfx.platform.linuxfoundation.org/meetings/ToIP?view=month)
+* [Steve Byrnes' work](https://sjbyrnes.com/) is a great synthesis ... and so close to the work in this project as to be pretty important
+  * See, for example, this pdf (but 200 pages!) ...
+    * [Brain-Like AGI Safety.pdf](https://github.com/user-attachments/files/24398471/brain-like-AGI-safety.pdf)
+
+
 
  ---
 <p align="center">
