@@ -134,9 +134,7 @@ Both genes and memes need media and energy - resources where the village is guar
     * [A related repo in GitHub](https://github.com/trustoverip/dtgwg-cred-tf/tree/14-revised-vrc-spec---v02)
   * [AI & Human Trust Working Group](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22982892/AI+Human+Trust+Working+Group)
   * @Joe-Rasmussen has signed-up to attend weekly meeings of the *Decentralized Trust* and the *AI & Human Trust* working group weekly meetings. These are accessible from a calendar [here](https://zoom-lfx.platform.linuxfoundation.org/meetings/ToIP?view=month)
-* [Steve Byrnes' work](https://sjbyrnes.com/) is a great synthesis ... and so close to the work in this project as to be pretty important
-  * See, for example, this pdf (but 200 pages!) ...
-    * [Brain-Like AGI Safety.pdf](https://github.com/user-attachments/files/24398471/brain-like-AGI-safety.pdf)
+
 
 
 
