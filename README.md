@@ -32,7 +32,7 @@ This is self-consciously similar to the process by which, in the early 1990s, th
 
 ### Links
 * There is a longer-form description of the project [here](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Project-description) (~1000 words)
-#### Links the project wiki ...
+#### Links to the project wiki ...
 * [Authentication, passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
 * [Bootstrap strategy](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Bootstrap)
 * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
