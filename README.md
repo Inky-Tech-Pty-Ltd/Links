@@ -43,7 +43,7 @@ This is self-consciously similar to the process by which, in the early 1990s, th
 * [Wish list](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
 #### And to elsewhere ...
 * [Earlier history of the Links project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki
-* The decentralized reputation explored in this project is adjacent to, but perhaps subtly different from decentralized trust, where there is a significant body of existing work:
+* The decentralized reputation explored in this project is adjacent to, but perhaps subtly different from decentralized trust, where there is a body of work in a Linux Foundation Working Group:
   * [Decentralized Trust Working Group in Confluence](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22985064/All+Members+Meeting+Page)
     * [A related repo in GitHub](https://github.com/trustoverip/dtgwg-cred-tf/tree/14-revised-vrc-spec---v02)
   * [AI & Human Trust Working Group](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/22982892/AI+Human+Trust+Working+Group)
