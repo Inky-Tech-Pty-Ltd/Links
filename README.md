@@ -4,6 +4,37 @@ A project for building villages.
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/images/Links%20GitHub%20Banner.jpg)
 www.village.link (This URL will become the front page. Currently it points straight back here.)
 
+### People and Villages
+
+The great trick of our species, the one that has set us apart, is to build knowledge that accumulates over generations.
+Our species is widely dispersed, so that the knowledge we need is _different_ for different environments. 
+That means it can't be hard-coded. It has to be learned. 
+The trick is old - an evolved feature of the species - but it has pre-adapted us for technology, and for our current technical dominance of the planet.
+
+The _repository_ of this knowledge is only passingly inside individual heads.
+For the purposes of this project, it is more useful to think of that knowledge as residing in _culture_ - in villages.
+The kick-off point for the project is that the village is like a second layer of information processing, sitting notionally 'above' the layer of individual brains.
+The first and second layers are self-similar. Both have proccessing units, both have connections between processors, and both have connection weights.
+
+### The Project, _Links_
+
+#### Project Part 1
+
+The project aims to build an architecture that will support online villages. The architecture will remove any need for the villagers to be face-to-face, and any need for a central authority. 
+Many projects like this already exist, but they tend to be cluttered with the rules written by the project designers. 
+The _defining feature_ of a village is that _the villagers_ make the rules. This is the feature that made our species what it is.
+In this project we would like to make a rule-set that is the minimum possible advance on:
+1. There are agents. They have compute, memory, and agency
+2. Patterns in one generation survive at different rates into the next.
+
+The project will need additional rule-sets for bootstrapping, but these need to be evolvable within the system.
+
+#### Project Part 2
+
+The project is developed at a time of anxiety about the place of AIs in our community.
+Many of the current responses propose engineering solutions, or legislative solutions, or a combination of the two.
+This project proposes a social solution - that we deploy the ancient 'village level' thinking to work out which AIs should be invited into a community, and which should be shut out.  
+
 ### Villages and Artificial Intelligence
 AIs are modelled on the brain. In a social species like our own, brains are organised into communities, into villages. 
 The village is the next-higher-up level of information processing after the brain. It is the natural repository of common sense, of culture.
