@@ -71,7 +71,6 @@ The project aims to build a type of decentralized agent that can:
 In terms of the 'village' analogy for the project, the one-word description of the architecture is *gossip*.
 
 The disruptive opportunity in the project comes from giving each entity a single point of access to a reputational asset that is currently scattered across many domains, many channels, and many stores of information.
-This is self-consciously similar to the process by which, in the early 1990s, the newly-developed web created a single point of access for information sources that were previously scattered across the internet.
 
 ### Bootstrap
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
