@@ -4,19 +4,17 @@ A project for building villages.
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/images/Links%20GitHub%20Banner.jpg)
 www.village.link (This URL will become the front page. Currently it points straight back here.)
 
-### Reputation
+### Reputation and Villages
 
 This project begins with reputation, communities, and governance. 
 In the project, communities are called 'villages'.
 
 Reputation is an asset - a ticket to participate in the village. 
-Reputation is built through the stories people tell when they observe mutually beneficial behaviour. Reputation suffers when village rules are broken - even if those rules are not written down.
+Reputation is built through positive interactions, and it suffers when village rules are broken - even if those rules are not written down.
 
-The key objective of the project is to build a 'reputation' architecture that can support any type of village at any scale. 
+The project aims to build a 'reputation' architecture that can support any type of village at any scale.
 
-If successful, the project might have an additional effect: That governance systems that work for humans might also prove effective for AI.
-
-### Artificial Intelligence
+### Artificial Intelligence and Reputation
 
 AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
 A village is a reputation economy where gaffes have consequences. 
