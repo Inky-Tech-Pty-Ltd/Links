@@ -130,11 +130,11 @@ Human people are also maximizing a reward function.
 Over many generations, our genes have explored into the whole possibility space - testing some strategies that are cooperative, some that are more self-interested, and some that are plain nasty.
 
 The cooperative strategies cannot eliminate the nasty ones. Ecology has endless examples of this, and game theory has confirmed the effect with mathematics.
-It is not possible to eliminate nasty strategies, but it is possible to hold them in equilibrium.
+It is not possible to eliminate the nasty strategies, but it is possible to hold them in equilibrium.
 
-It is naive, (and dangerous,) to hope that AIs will not explore the whole space of possibilities, including the nasty strategies. 
+It is naive, (and dangerous,) to hope that AIs will not explore the whole space of possibilities, including nasty strategies. 
 
-Village norms are a tested technology that can establish an equilibrium where the nasty strategies are present, but are controlled. 
+Cooperation in a vilage is the best technology so far for resisting the nastiness. 
 
 ---
 
