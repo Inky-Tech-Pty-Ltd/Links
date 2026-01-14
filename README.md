@@ -136,6 +136,8 @@ It is naive, (and dangerous,) to hope that AIs will not explore the whole space 
 
 Village norms are a tested technology that can establish an equilibrium where the nasty strategies are present, but are controlled. 
 
+---
+
 #### Links to the project wiki ...
 * [Authentication, passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
 * [Bootstrap strategy](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Bootstrap)
