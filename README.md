@@ -4,43 +4,19 @@ A project for building villages.
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/images/Links%20GitHub%20Banner.jpg)
 www.village.link (This URL will become the front page. Currently it points straight back here.)
 
-### People and Villages
+### Reputation
 
-The great trick of our species, the one that has set us apart, is to build knowledge that accumulates over generations.
-Our species is widely dispersed, so that the knowledge we need is _different_ for different environments. 
-That means it can't be hard-coded. It has to be learned. 
-The trick is old - an evolved feature of the species - but it has pre-adapted us for technology, and for our current technical dominance of the planet.
+This project begins with reputation, communities, and governance. 
+In the project, communities are called 'villages'.
 
-The _repository_ of this knowledge is only passingly inside individual heads.
-For the purposes of this project, it is more useful to think of that knowledge as residing in _culture_ - in villages.
-The kick-off point for the project is that the village is like a second layer of information processing, sitting notionally 'above' the layer of individual brains.
-The first and second layers are self-similar. Both have proccessing units, both have connections between processors, and both have connection weights.
+Reputation is an asset - a ticket to participate in the village. 
+Reputation is built through the stories people tell when they observe mutually beneficial work. It suffers when village rules are broken - even if those rules are not written down.
 
-### The Project, _Links_
+The key objective of this project is to build a 'reputation' architecture that can support any type of village at any scale. 
 
-#### Project Part 1
+If successful, the project might have an additional effect: That governance systems that work for humans might also prove effective for AI.
 
-The project aims to build an architecture that will support online villages. The architecture will remove any need for the villagers to be face-to-face, and any need for a central authority. 
-Many projects like this already exist, but they tend to be cluttered with the rules written by the project designers. 
-The _defining feature_ of a village is that _the villagers_ make the rules. This is the feature that made our species what it is.
-In this project we would like to make a rule-set that is the minimum possible advance on:
-1. There are agents. They have compute, memory, and agency
-2. Patterns in one generation survive at different rates into the next.
-
-The project will need additional rule-sets for bootstrapping, but these need to be evolvable within the system.
-
-#### Project Part 2
-
-The project is developed at a time of anxiety about the place of AIs in our community.
-Many of the current responses propose engineering controls, or legislative controls, or a combination of the these.
-The anxiety is driven by a sense that it is hard to see how engineering or legislative controls could reduce the possibility space. 
-We belive it is safter to assume that AI development will explore the _whole_ possibility space.
-Evolutuion has always explored the whole possibiltiy space. Our cultural knowledge systems are designed to cope.
-This project proposes a social control - that we deploy the ancient 'village level' thinking so that differnt groups can work out which AIs should be invited into their communities, and which should not.  
-
-### Villages and Artificial Intelligence
-AIs are modelled on the brain. In a social species like our own, brains are organised into communities, into villages. 
-The village is the next-higher-up level of information processing after the brain. It is the natural repository of common sense, of culture.
+### Artificial Intelligence
 
 AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
 A village is a reputation economy where gaffes have consequences. 
@@ -48,7 +24,7 @@ For flesh-and-blood intelligences like you and me, gaffes are associated with th
 Our reputation is an asset. If we compromise that asset, it feels terrible.
 Shame is a deep learning experience that re-wires the brain. 
 
-Collectively, the village is policing a set of norms. 
+Collectively, a village is policing a set of norms. 
 In this world, each individual must find a balance between compliance and ambition.
 Sometimes, ambitious individuals or coalitions of individuals push up against the established culture and change it. Norms evolve. 
 
@@ -58,7 +34,7 @@ It is illustrative that teenagers can be acutely vulnerable to shame.
 They are learning the rules.
 
 The current generation of AIs do not yet guard their reputation in this way. 
-They don't develop the set of commonsense constraints, and often [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
+They don't develop the set of commonsense constraints, and sometimes [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
 
 One of the premises of this project is that social constraints will soon form a part of the training framework for AI. 
 We believe the future will include a type of AI that knows its reputation is an asset, and that will have in its reward function a digital equivalent of shame. 
@@ -72,7 +48,8 @@ Instead we want to discover what is universal about human reputation systems and
 The project is motivated by some big problems. How do we? ...
 1. Harden communities against a future AI that is highly capable and potentially malign
 2. Address bottlenecks in AI development including alignment, context drift, and [jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
-1. Create a new/old toolkit for thinking about:
+3. Change the fundamentals of the way social media affects politics
+4. Create a new/old toolkit for thinking about:
    * Identity (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA))
    * Reputation
    * Social connections
@@ -93,8 +70,8 @@ The project aims to build a type of decentralized agent that can:
 
 In terms of the 'village' analogy for the project, the one-word description of the architecture is *gossip*.
 
-The opportunity in the project comes from giving each entity, (human or otherwise,) efficient and networked access to a reputational asset that is currently scattered across many domains, many channels, and many stores of information.
-This is self-consciously similar to the process by which, in the early 1990s, the newly-developed web connected information sources that were previously scattered across the internet.
+The disruptive opportunity in the project comes from giving each entity a single point of access to a reputational asset that is currently scattered across many domains, many channels, and many stores of information.
+This is self-consciously similar to the process by which, in the early 1990s, the newly-developed web created a single point of access for information sources that were previously scattered across the internet.
 
 ### Bootstrap
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
@@ -144,12 +121,20 @@ All three would feel mixtures of betrayal, anger, and sadness - strong emotions 
 
 ### Evolution
 Note that it really does not matter whether the characters in these plays are AIs or people.
-If they were AIs, they would be a new type of AI that develops long-term behavioural constraints and does not lose context for certain types of learning.
+If they were AIs, they would be a new type of AI that develops long-term behavioural constraints, and does not lose context for certain types of learning.
 Also a type of AI that knows it has a reputational asset, and feels risk.
 
-We can expect AIs (and, of course, people) to evolve to a place where it appears they are goal-seeking for the survival of their memes (or genes).
-This is the ultimate reward function. 
-Both genes and memes need media and energy - resources where the village is guarding the store.
+We can expect AIs to evolve to a place where it appears they are goal-seeking for the survival of their memes.
+This is the only reward function that matters in the medium term.
+Human people are also maximizing a reward function. 
+Over many generations, our genes have explored into the whole possibility space - testing some strategies that are cooperative, some that are more self-interested, and some that are plain nasty.
+
+The cooperative strategies cannot eliminate the nasty ones. Ecology has endless examples of this, and game theory has confirmed the effect with mathematics.
+It is not possible to eliminate nasty strategies, but it is possible to hold them in equilibrium.
+
+It is naive, (and dangerous,) to hope that AIs will not explore the whole space of possibilities, including the nasty strategies. 
+
+Village norms are a tested technology that can establish an equilibrium where the nasty strategies are present, but are controlled. 
 
 #### Links to the project wiki ...
 * [Authentication, passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
