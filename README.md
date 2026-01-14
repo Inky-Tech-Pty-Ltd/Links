@@ -12,7 +12,7 @@ In the project, communities are called 'villages'.
 Reputation is an asset - a ticket to participate in the village. 
 Reputation is built through the stories people tell when they observe mutually beneficial work. It suffers when village rules are broken - even if those rules are not written down.
 
-The key objective of this project is to build a 'reputation' architecture that can support any type of village at any scale. 
+The key objective of the project is to build a 'reputation' architecture that can support any type of village at any scale. 
 
 If successful, the project might have an additional effect: That governance systems that work for humans might also prove effective for AI.
 
