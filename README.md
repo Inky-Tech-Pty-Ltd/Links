@@ -27,7 +27,7 @@ The system presupposes that the engineers are incentivised not to wash away the 
 Unfortunately, with AI, the incentives are not like that.
 The precautionary approach is to assume that the designers of AIs will explore the whole possibiliy space - perhaps especially the exploitative possibilites.
 
-Legislative controls are very visibly too slow; but they have a deeper weakness in this case:
+Legislative controls are very visibly too slow ... but they have a deeper weakness in this case:
 Laws work on the principle that a thing is legal unless there is a law against it. Legislation is default 'yes'.
 
 In contrast, villages are default 'no'. At the conservative end of the spectrum, they allow no new members, no new ideas, no wierd behaviour.
