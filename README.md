@@ -24,9 +24,8 @@ This paper argues that it will be difficult (not impossible) for a misaligned AI
 
 Engineering controls are the type that make it rare for dams (for example) to fail. The modes of fail are largely known, and engineers design accordingly.
 The system presupposes that the engineers are incentivised not to wash away the downstream towns. 
-But engineering controls liek this don't work if the engineers have different incentives. 
-When there are incentives to build destructive technlogies, we alwyas build those technologies.
-The precautionary approach is to assume that engineers will not refrain from building destructive AIs.
+Unfortunately, with AI, the incentives are not like that.
+The precautionary approach is to assume that the designers of AIs will explore the whole possibiliy space - perhaps especially the exploitative possibilites.
 
 Legislative controls are very visibly too slow; but they have a deeper weakness in this case:
 Laws work on the principle that a thing is legal unless there is a law against it. Legislation is default 'yes'.
