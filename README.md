@@ -30,8 +30,8 @@ The precautionary approach is to assume that the designers of AIs will explore t
 Legislative controls are very visibly too slow ... but they have a deeper weakness in this case:
 Laws work on the principle that a thing is legal unless there is a law against it. Legislation is default 'yes'.
 
-In contrast, villages are default 'no'. At the conservative end of the spectrum, they allow no new members, no new ideas, no wierd behaviour.
-And even if we come a few steps away from the most conservative, villages only allow new members, ideas, or behavoiours on the basis of the rules of the village. 
+Villages work differently. By default they allow no new members, no new ideas, no wierd behaviour.
+When they step away from that default, each change is considered, vetted. Villages are default 'no'. 
 
 ### Artificial Intelligence
 
