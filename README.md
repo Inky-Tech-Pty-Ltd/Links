@@ -24,15 +24,14 @@ The paper argues that it will be difficult for a misaligned AI to develop a repu
 
 #### Engineering Controls, Legislative Controls, Social Controls
 
-Engineering controls are the type that make it rare for dams (for example) to fail. The modes of fail are largely known, and engineers design accordingly.
-The system presupposes that the engineers 'public infrastructure' incentives. Unfortunately, with AI, the incentives are not like that.
-The precautionary approach is to assume that AI enigineers will explore the whole possibility space - perhaps especially the exploitative possibilites.
+The precautionary approach is to assume that AI engineers will explore the whole possibility space - perhaps especially the exploitative possibilites. 
+They are already doing so.
 
 Legislative controls are very visibly too slow ... but they have a deeper weakness in this case:
 Laws work on the principle that a thing is legal unless there is a law against it. Legislation is default 'yes'.
 
 Villages work differently. By default they allow no new members, no new ideas, no wierd behaviour.
-When they step away from that default, each change is considered, vetted. Villages are default 'no'.
+Even when vilages they step away from this conservative default, each change is considered, vetted. Villages are default 'no'.
 
 This paper describes an approch to AI Alignment that does not require the development of new AI technology, and that does not require a political campaign. 
 Instead, it argues for some digital scaffolding that helps to support the existing defences of villages.
