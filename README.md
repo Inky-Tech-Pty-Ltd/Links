@@ -1,10 +1,12 @@
-# Links
+# Village Link
 A project for building villages.
 
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/images/Links%20GitHub%20Banner.jpg)
 www.village.link (This URL will become the front page. Currently it points straight back here.)
 
-### Villages
+## Abstract
+
+#### Villages
 
 This project begins with communities, reputation, and governance. 
 In the project, communities are called 'villages'. 
@@ -12,28 +14,32 @@ Villages are self-governing and adaptive. They have evolved to control any type 
 
 The paper below will argue that villages can be deployed to control the threat posed by a highly capable and misaligned AI.
 
-### Reputation
+#### Reputation
 
 Reputation is an asset - a ticket to participate in the village. 
 Reputation is built through positive interactions, and it suffers when village rules are broken - even if those rules are not written down.
 
 The project aims to build a 'reputation' architecture that can support any type of village at any scale.
-This paper argues that it will be difficult (not impossible) for a misaligned AI to develop a reputation that is acceptable to a village.
+The paper argues that it will be difficult for a misaligned AI to develop a reputation that is acceptable to a village.
 
-### Engineering Controls, Legislative Controls, Social Controls
+#### Engineering Controls, Legislative Controls, Social Controls
 
 Engineering controls are the type that make it rare for dams (for example) to fail. The modes of fail are largely known, and engineers design accordingly.
-The system presupposes that the engineers are incentivised not to wash away the downstream towns. 
-Unfortunately, with AI, the incentives are not like that.
-The precautionary approach is to assume that the designers of AIs will explore the whole possibiliy space - perhaps especially the exploitative possibilites.
+The system presupposes that the engineers 'public infrastructure' incentives. Unfortunately, with AI, the incentives are not like that.
+The precautionary approach is to assume that AI enigineers will explore the whole possibility space - perhaps especially the exploitative possibilites.
 
 Legislative controls are very visibly too slow ... but they have a deeper weakness in this case:
 Laws work on the principle that a thing is legal unless there is a law against it. Legislation is default 'yes'.
 
 Villages work differently. By default they allow no new members, no new ideas, no wierd behaviour.
-When they step away from that default, each change is considered, vetted. Villages are default 'no'. 
+When they step away from that default, each change is considered, vetted. Villages are default 'no'.
 
-### Artificial Intelligence
+This paper describes an approch to AI Alignment that does not require the development of new AI technology, and that does not require a political campaign. 
+Instead, it argues for some digital scaffolding that helps to support the existing defences of villages.
+
+## Village Link
+
+#### Artificial Intelligence
 
 AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
 A village is a reputation economy where gaffes have consequences. 
@@ -62,7 +68,7 @@ An AI that knows that its reputation is the price of entry will have a better ch
 But we are not proposing to work on such an AI as a first order of business. 
 Instead we want to discover what is universal about human reputation systems and develop a common architecture to support those systems.
 
-### Goals
+#### Goals
 The project is motivated by some big problems. How do we? ...
 1. Harden communities against a future AI that is highly capable and potentially malign
     * Address bottlenecks in AI development including alignment, context drift, and [jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
@@ -78,7 +84,7 @@ The project is motivated by some big problems. How do we? ...
        * Non-zero-sum transactional opportunities that leverage both [search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search) and reputation in the social graph
        * Support for work on hard problems of coordinated action.
 
-### Architecture
+#### Architecture
 The project aims to build a type of decentralized agent that can:
 1. Store reputational information
 2. Make reputational claims about itself, (identity claims,) and about others
@@ -90,7 +96,7 @@ In terms of the 'village' analogy for the project, the one-word description of t
 
 The disruptive opportunity in the project comes from giving each entity one or more agents that can coordinate a reputational asset that is currently scattered across many domains, many channels, and many stores of information.
 
-### Bootstrap
+#### Bootstrap
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
 Thankfully, we don't have to write those strategies - we just have to write the foundation.
 
@@ -101,7 +107,7 @@ Many types already exist, and some are in the public domain.
 In using this data, the project does not have to capture every nuance. 
 Instead, it just needs to capture a few key 'seed' features, and ensure that the system is evolvable.
 
-### Reputation, rudimentary and not-so-rudimentary
+#### Reputation, rudimentary and not-so-rudimentary
 There are many places online where Bob can call attention to Alice using the _@Alice_ convention. 
 If Alice wishes to reply, she can use _@Bob_. 
 Once this data is in the public domain, Bob's agent can make the reputational claim, "I have a connection to Alice, and here's the link to evidence."
@@ -123,7 +129,7 @@ These are the punishment strategies of the village. Bob needs to assess these ri
 
 (But she's a Wikipedia admin, right? Aren't they bottomlessly generous?)
 
-### Privacy
+#### Privacy
 
 Carol has accepted that she will be *in public* whenever she uses Wikipedia, GitHub, or YouTube. 
 She is most-likely also a member of some private villages - perhaps her nuclear family, or the village of Carol-and-her-two-besties.
@@ -136,7 +142,7 @@ This would be a breach. The village would be damaged, and possibly dissolve.
 All three members would be poorer, experiencing big negative hits in their reward functions.
 All three would feel mixtures of betrayal, anger, and sadness - strong emotions which, like shame, would re-wire the three brains, perhaps forever.
 
-### Evolution
+#### Evolution
 Note that it really does not matter whether the characters in these plays are AIs or people.
 If they were AIs, they would be a new type of AI that develops long-term behavioural constraints, and does not lose context for certain types of learning.
 Also a type of AI that knows it has a reputational asset, and feels risk.
@@ -153,9 +159,9 @@ It is naive, (and dangerous,) to hope that AIs will not explore the whole space 
 
 Cooperation in a village is the best technology so far for resisting the nastiness. 
 
----
+## Hyperlinks
 
-#### Links to the project wiki ...
+#### ... to the project wiki ...
 * [Authentication, passwords, and 2FA](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA)
 * [Bootstrap strategy](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Bootstrap)
 * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
@@ -164,7 +170,7 @@ Cooperation in a village is the best technology so far for resisting the nastine
 * [Search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search)
 * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members)
 * [Wish list](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Wish-List)
-#### And to elsewhere ...
+#### ... and to elsewhere ...
 * [Earlier history of the Links project](https://inkytech.atlassian.net/wiki/spaces/IT/overview) - a link to a Confluence wiki
 * The decentralized reputation explored in this project is adjacent to, but perhaps subtly different from decentralized trust, where there is a body of work in a Linux Foundation Working Group:
   * [Decentralized Trust Working Group in Confluence](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/257785857/Decentralized+Trust+Graph+Working+Group)
