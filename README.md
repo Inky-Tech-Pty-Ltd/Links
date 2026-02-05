@@ -48,8 +48,9 @@ One of the premises of this project is that social constraints will soon form a 
 In that future, there will be a type of AI that knows its reputation is an asset, and that will have in its reward function a digital equivalent of shame. 
 It will have better access to the slippery notion of 'common sense,' and will seem less stupid.
 An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms.
+On their side, the villages need only do what they have always done: Exclude any party whose reputation does not fit the norms of the community.
 
-But we are not proposing to work on such an AI as a first order of business. 
+This project is not proposing to work on such an AI as a first order of business. 
 Instead we want to discover what is universal about human reputation systems and develop a common architecture to support those systems.
 
 #### Goals
@@ -74,9 +75,9 @@ The project aims to build a type of decentralized agent that can:
 2. Make reputational claims about itself, (identity claims,) and about others
 3. Assess the reputational claims of others by checking its own data store, and by querying the social graph
 4. Make decisions about what reputational claims are to be shared with whom
-5. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation.
+5. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation. (Connection weights are the synaptic tissue of the village.)
 
-In terms of the 'village' analogy for the project, the one-word description of the architecture is *gossip*.
+The one-word description of the architecture is *gossip*.
 
 The disruptive opportunity in the project comes from giving each entity one or more agents that can coordinate a reputational asset that is currently scattered across many domains, many channels, and many stores of information.
 
@@ -129,7 +130,7 @@ All three would feel mixtures of betrayal, anger, and sadness - strong emotions 
 #### Evolution
 Note that it really does not matter whether the characters in these plays are AIs or people.
 If they were AIs, they would be a new type of AI that develops long-term behavioural constraints, and does not lose context for certain types of learning.
-Also a type of AI that knows it has a reputational asset, and feels risk.
+Also a type of AI that knows it has a reputational asset, and feels the risk of being cut off from energy.
 
 We can expect AIs to evolve to a place where it appears they are goal-seeking for the survival of their memes.
 This is the only reward function that matters in the medium term.
