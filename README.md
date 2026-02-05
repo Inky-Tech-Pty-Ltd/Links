@@ -33,7 +33,7 @@ Shame is a deep learning experience that re-wires the brain.
 
 Collectively, a village is policing a set of norms. 
 In this world, each individual must find a balance between compliance and ambition.
-But the norms aren't static. 
+The norms aren't static. 
 Politics is the process of pushing the norms around, and sometimes changing them. Norms evolve. 
 
 Human brains grow to maturity inside the reputation economy of a village. 
