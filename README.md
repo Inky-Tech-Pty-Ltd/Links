@@ -11,7 +11,7 @@ The village performs the fundamental requirement of a computer: That, instead of
 The programs that run on this machine are the things we call cultural knowledge. 
 Different versions of these programs have allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra, and ultimately to dominate the planet.
 
-A village is necessarily a collaborative affair. If the number of humans in a community falls below a threshold, cultural knowledge is progressively lost, and technology runs backward.
+A village is necessarily a collaborative affair. 
 Collaboration implies governance.
 
 A village is a computational machine to:
@@ -19,7 +19,11 @@ A village is a computational machine to:
 2. Distribute energy among the villagers
 3. Resist the threat of raiders, internal or external.
 
-This paper argues that the village structures that govern human communities will also prove effective in the governance of Artificial Intelligence.
+This paper argues that we can do better with emergent structures of self governance. But also that the structure we need for human self-governance will prove effective in the governance of AI.
+
+From a techinical perspective, the _Village Link_ project is an argument by analogy with Berners-Lee and the development of the web.
+Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer with a common backbone.
+Right now, reputational traces are a bunch of islands of social interaction. The project is to connect those islands with a common backbone.
 
 ## Village Link
 
@@ -77,7 +81,7 @@ The project aims to build a type of decentralized agent that can:
 4. Make decisions about what reputational claims are to be shared with whom
 5. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation. (Connection weights are the synaptic tissue of the village.)
 
-The one-word description of the architecture is *gossip*.
+The one-word description of the architecture is *gossip*. (NB there are a couple of competing drafts for the fundamental elements of the proposal, see [Axioms](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Axioms))
 
 The disruptive opportunity in the project comes from giving each entity one or more agents that can coordinate a reputational asset that is currently scattered across many domains, many channels, and many stores of information.
 
