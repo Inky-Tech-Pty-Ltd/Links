@@ -9,25 +9,50 @@ www.village.link (This URL will become the front page. Currently it points strai
 The central thesis of this project is that the village is a computational machine. 
 The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one particular procedure, it is a machine to perform _any_ procedure.
 The programs that run on this machine are the things we call cultural knowledge. 
-Different versions of these programs have allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra, and ultimately to dominate the planet.
+Different versions of these programs have allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra; and ultimately to dominate the planet.
 
 A village is necessarily a collaborative affair. 
 Collaboration implies governance.
 
-A village is a computational machine to:
-1. Liberate energy from any environment
+A village is a computational machine that can:
+1. Liberate energy from an environment
 2. Distribute energy among the villagers
 3. Resist the threat of raiders, internal or external.
 
-This paper argues that we can do better with emergent structures of self-governance. But also, that the structures we need for human self-governance will prove effective in the governance of AI.
-
-From a techinical perspective, the _Village Link_ project is an argument by analogy with Berners-Lee and the development of the web.
+This project aims to create a standard that makes it possible to weld together reputation graphs that are currently scattered in many places. 
+It argues that reputation is the key to self-governing structures, not only for humans, but also for artificial intelligences.
+From a techinical perspective, the project is an argument by analogy with Tim Berners-Lee and the development of the web.
 
 Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
 
-Social interactions leave a trace of reputational information. Right now, that information is scattered across a bunch of islands, public and private. This project is designed to build the connective tissue between those islands.
+Our many public and private social interactions create islands of reputation graph scattered across the informaton space. 
+
+We don't have a way to pull those bundles of reputation into a single identity. This project is designed to build those identities, and to build collections of identities called villages.
 
 ## Village Link
+
+#### Relationships
+
+It is customary in the analysis of networks to draw a set of points - nodes - for the actors, and set of lines - edges - for the relationships. 
+These two objects are the base level of the system. This is not the approach taken by this project.
+
+Consider a group of 20 teenagers. Within the group, Sophie and Otto are quite high status.
+Sophie has a private assessment of the Sophie-Otto relationship, and so does Otto.
+And so, of course, do the other 18 members of the group. 
+The group discusses relationships constantly. Alliances fuse and split.
+All members of the group make public claims about relationships. These claims are often differnt from their private assessments.
+They also _change_ their public claims for differnt audiences. And everything changes over time.
+
+Now, instead of a single line, the Otto-Sophie relationship is a huge, partly opaque, but shimmering bundle of cable.
+This object is one of the components of our village computer. The internal states of the computer create strategic constraints - governance - for the actors.
+
+Now substitute the names 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
+The new object is the US-Canada relationship. The other dynamics are essentially the same.
+China, Mexico, the UK and Germany all make private assessments of the US-Canada relationship. 
+That bundle of wiring is one of the inputs that governs the range of strategic options for Denmark.
+
+In this projects, the base-level objects are actors and actions. 
+Relationships, villages, membership, and governing norms are derived objects. They are endlessly contestable.
 
 #### Artificial Intelligence
 
