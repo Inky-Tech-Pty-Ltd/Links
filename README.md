@@ -14,20 +14,20 @@ Different versions of these programs have allowed us to thrive in environments a
 A village is necessarily a collaborative affair. 
 Collaboration implies governance.
 
-A village is a computational machine that can:
-1. Liberate energy from an environment
+Evolution has designed villages that can:
+1. Liberate energy from any environment
 2. Distribute energy among the villagers
 3. Resist the threat of raiders, internal or external.
 
-This project aims to create a standard that makes it possible to weld together reputation graphs that are currently scattered in many places. 
-It argues that reputation is the key to self-governing structures, not only for humans, but also for artificial intelligences.
-From a techinical perspective, the project is an argument by analogy with Tim Berners-Lee and the development of the web.
+This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places. 
+It argues that an ongiong, gossipy, conversation about reputation is the key to self-governing structures; not only for humans, but also for artificial intelligences.
+In this sense the project is an argument by analogy with Tim Berners-Lee and the development of the web.
 
 Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
 
-Our many public and private social interactions create islands of reputation graph scattered across the informaton space. 
-
-We don't have a way to pull those bundles of reputation into a single identity. This project is designed to build those identities, and to build collections of identities called villages.
+Our many public and private social interactions create islands of reputation graph that are scattered across the ocean. 
+We don't have a way to pull these things together into a single [identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity). 
+This project is designed to build those identities, and to build the groups of identities called villages.
 
 ## Village Link
 
@@ -41,18 +41,21 @@ Sophie has a private assessment of the Sophie-Otto relationship, and so does Ott
 And so, of course, do the other 18 members of the group. 
 The group discusses relationships constantly. Alliances fuse and split.
 All members of the group make public claims about relationships. These claims are often differnt from their private assessments.
-They also _change_ their public claims for differnt audiences. And everything changes over time.
+They also _change_ their public claims for different audiences. And everything changes over time.
 
-Now, instead of a single line, the Otto-Sophie relationship is a huge, partly opaque, but shimmering bundle of cable.
+Now, instead of a single line, the Otto-Sophie relationship is revealed as a huge, partly opaque, but shimmering bundle of cable.
 This object is one of the components of our village computer. The internal states of the computer create strategic constraints - governance - for the actors.
 
 Now substitute the names 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
 The new object is the US-Canada relationship. The other dynamics are essentially the same.
-China, Mexico, the UK and Germany all make private assessments of the US-Canada relationship. 
+China, Mexico, the UK, Germany, and Russia all make private assessments of the US-Canada relationship. 
 That bundle of wiring is one of the inputs that governs the range of strategic options for Denmark.
+
+This approach does not mean that it's suddenly impossible to have a ceremony that creates an identifier of a relationship - but it re-casts that ceremony as an example of a norm.
 
 In this projects, the base-level objects are actors and actions. 
 Relationships, villages, membership, and governing norms are derived objects. They are endlessly contestable.
+
 
 #### Artificial Intelligence
 
