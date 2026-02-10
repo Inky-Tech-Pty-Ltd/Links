@@ -101,8 +101,8 @@ Many types already exist, and some are in the public domain.
 In using this data, the project does not have to capture every nuance. 
 Instead, it just needs to capture a few key 'seed' features, and ensure that the system is evolvable.
 
-The harvesting of people's reputation data is not morally value-free. 
-The issue is explored a little more deeply on the page, [Outrageous Liberties](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Outrageous-Liberties).
+The harvesting of people's reputational data is not morally value-free. 
+The issue is explored more deeply on the page, [Outrageous Liberties](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Outrageous-Liberties).
 
 #### Reputation, rudimentary and not-so-rudimentary
 There are many places online where Bob can call attention to Alice using the _@Alice_ convention. 
