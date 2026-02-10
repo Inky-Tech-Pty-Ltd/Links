@@ -107,7 +107,7 @@ The issue is explored more deeply on the page, [Outrageous Liberties](https://gi
 #### Reputation, rudimentary and not-so-rudimentary
 There are many places online where Bob can call attention to Alice using the _@Alice_ convention. 
 If Alice wishes to reply, she can use _@Bob_. 
-Once this data is in the public domain, Bob's agent can make the reputational claim, "I have a connection to Alice, and here's the link to evidence."
+Once this data is in the public domain, Bob's agent can make the reputational claim, "I have a connection to Alice, and here's the evidence."
 In isolation, this does not amount to much, but it is part of a web.
 
 Next imagine that Bob has an existing, robust, connection to Alice, and he asks about Carol.
