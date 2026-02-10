@@ -55,7 +55,7 @@ In that future, there will be a type of AI that knows its reputation is an asset
 It will have better access to the slippery notion of 'common sense,' and will seem less stupid.
 An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms. If it does this effectively, it may be granted a portion of the village energy store.
 
-On their side, the villages need only do what they have always done: Exclude any party whose reputation does not fit the norms of the community.
+On their side, the villagers need only do what they have always done: Exclude any party whose reputation does not fit the norms of the community.
 
 This project is not proposing to work on such an AI as a first order of business. 
 Instead we want to discover what is universal about human reputation systems and develop a common architecture to support those systems.
