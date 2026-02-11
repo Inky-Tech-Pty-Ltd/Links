@@ -7,7 +7,7 @@ www.village.link (This URL will become the front page. Currently it points strai
 ## Abstract
 
 The central thesis of this project is that the village is a computational machine. 
-The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one particular procedure, it is a machine to perform _any_ procedure.
+The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one specific procedure, it is a machine to perform _any_ procedure.
 The programs that run on this machine are the things we call cultural knowledge. 
 Different versions of these programs have allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra; and ultimately to dominate the planet.
 
@@ -21,12 +21,13 @@ Evolution has designed villages that can:
 
 This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places. 
 It argues that an ongiong, gossipy, conversation about reputation is the key to self-governing structures; not only for humans, but also for artificial intelligences.
-In this sense the project is an argument by analogy with Tim Berners-Lee and the development of the web.
+
+As a structure, the project is an argument by analogy with Tim Berners-Lee and the development of the web:
 
 Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
 
-Our many public and private social interactions create islands of reputation graph that are scattered across the ocean. 
-We don't have a way to pull these things together into a single [identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity). 
+Our many public and private social interactions create islands of reputation graph that are scattered across the information space. 
+We don't have a way to pull these things together into a single identity. 
 This project is designed to build those identities, and to build the groups of identities called villages.
 
 ## Village Link
@@ -34,16 +35,16 @@ This project is designed to build those identities, and to build the groups of i
 #### Relationships
 
 It is customary in the analysis of networks to draw a set of points - nodes - for the actors, and set of lines - edges - for the relationships. 
-These two objects are the base level of the system. This is not the approach taken by this project.
+These two objects often form the base level of the system. This is not the approach taken by this project.
 
 Consider a group of 20 teenagers. Within the group, Sophie and Otto are quite high status.
 Sophie has a private assessment of the Sophie-Otto relationship, and so does Otto.
 And so, of course, do the other 18 members of the group. 
 The group discusses relationships constantly. Alliances fuse and split.
-All members of the group make public claims about relationships. These claims are often differnt from their private assessments.
-They also _change_ their public claims for different audiences. And everything changes over time.
+All members of the group make public claims about relationships. These claims are often different from their private assessments.
+They also strategically _change_ their public claims for different audiences. Everything changes over time.
 
-Now, instead of a single line, the Otto-Sophie relationship is revealed as a huge, partly opaque, but shimmering bundle of cable.
+Now, instead of a single line, the Sophie-Otto relationship is revealed as a large, partly opaque, but shimmering bundle of cables.
 This object is one of the components of our village computer. The internal states of the computer create strategic constraints - governance - for the actors.
 
 Now substitute the names 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
@@ -51,10 +52,11 @@ The new object is the US-Canada relationship. The other dynamics are essentially
 China, Mexico, the UK, Germany, and Russia all make private assessments of the US-Canada relationship. 
 That bundle of wiring is one of the inputs that governs the range of strategic options for Denmark.
 
-This approach does not mean that it's suddenly impossible to have a ceremony that creates an identifier of a relationship - but it re-casts that ceremony as an example of a norm.
+This approach does not mean that it's suddenly impossible to have a ceremony that creates a digital identifier of a relationship - but it re-casts that ceremony as an example of a norm.
 
 In this projects, the base-level objects are actors and actions. 
-Relationships, villages, membership, and governing norms are derived objects. They are endlessly contestable.
+Relationships, villages, membership, and governing norms are derived objects - changeable internal states of the computer.
+They are endlessly contestable.
 
 
 #### Artificial Intelligence
@@ -76,7 +78,7 @@ It is illustrative that teenagers can be acutely vulnerable to shame.
 They are learning the rules.
 
 The current generation of AIs do not yet learn the rules and guard their reputation in this way. 
-They don't develop the set of commonsense constraints, and sometimes [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
+They don't develop a set of 'commonsense' constraints, and sometimes [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
 
 One of the premises of this project is that social constraints will soon form a part of the training framework for AI. 
 In that future, there will be a type of AI that knows its reputation is an asset, and that will have in its reward function a digital equivalent of shame. 
@@ -92,9 +94,8 @@ Instead we want to discover what is universal about human reputation systems and
 The project is motivated by some big problems. How do we? ...
 1. Harden communities against a future AI that is highly capable and potentially malign
     * Address bottlenecks in AI development including alignment, context drift, and [jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
-2. Change the fundamentals of the way social media affects our politics
-3. Create a new/old toolkit for thinking about:
-   * Identity (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA))
+2. Create a new/old toolkit for thinking about:
+   * [Identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity) (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA))
    * Reputation
    * Social connections
    * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
