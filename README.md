@@ -25,8 +25,9 @@ They have evolved for collective defence against a jungle that is unknowably vas
 The tradition of authorship on governance structures dates back at least to Plato's _Republic_. 
 This project aims to "go up" one level of abstraction from that tradition by putting to one side a discussion about {the right set of rules,} and instead focusing on foundational architecture to support {any set of rules}.
 The set of rules that works in the Australian desert will be different from those that work in the Arctic tundra, and both will be different from the rules that defend against a highly capable and potentially malign AI. 
+
 In all cases, the villagers create their rules within a prestige economy. 
-The village computer 'thinks' about its environment in an endless political interaction between the villagers. Reputation is at the core.  
+The village computer 'thinks' about its environment in an endless interaction between the villagers that is social and strategic. Reputation is at the core.  
 
 This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places both public and private. 
 It argues that an ongiong, gossipy, conversation about reputation is the key to self-governance; not only for humans, but also for artificial intelligences.
