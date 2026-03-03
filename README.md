@@ -32,7 +32,7 @@ The village computer 'thinks' about its environment in an endless interaction be
 This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places both public and private. 
 It argues that an ongiong, gossipy, conversation about reputation is the key to self-governance; not only for humans, but also for artificial intelligences.
 
-As a structure, the project is an argument by analogy with Tim Berners-Lee and the development of the web:
+The work in the project comes from an argument by analogy with Tim Berners-Lee and the development of the web:
 
 Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
 
