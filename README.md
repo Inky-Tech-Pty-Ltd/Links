@@ -55,7 +55,7 @@ All members of the group make public claims about relationships. These claims ar
 They also strategically _change_ their public claims for different audiences. Everything changes over time.
 
 Now, instead of a single line, the Sophie-Otto relationship is revealed as a large, partly opaque, but shimmering bundle of cables.
-This object is one of the components of our village computer. The internal states of the computer create strategic constraints - governance - for the actors.
+The weightings in this object drive calculations in the village computer. The internal states of the computer create strategic constraints - governance - for the actors.
 
 Now change metophor by substituting the names 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
 The new object is the US-Canada relationship. The other dynamics are essentially the same.
