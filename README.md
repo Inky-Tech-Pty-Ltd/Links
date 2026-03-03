@@ -166,15 +166,25 @@ These are the punishment strategies of the village. Bob needs to assess these ri
 #### Privacy
 
 Carol has accepted that she will be *in public* whenever she uses Wikipedia, GitHub, or YouTube. 
-She is most-likely also a member of some private villages - perhaps her nuclear family, or the village of Carol-and-her-two-besties.
+She is most-likely also a member of some private villages - perhaps her nuclear family, or the village of Carol-and-two-friends.
 Inside these villages, it is probable that there is a deeply-held norm that certain types of information are not to be made public.
 Privacy is a norm.
 
-Imagine that Carol shares some private-life information, possibly salacious, with her two friends.
-Next imagine that one of her friends shares this information outside the circle of three.
-This would be a breach. The village would be damaged, and possibly dissolve.
-All three members would be poorer, experiencing big negative hits in their reward functions.
-All three would feel mixtures of betrayal, anger, and sadness - strong emotions which, like shame, would re-wire the three brains, perhaps forever.
+Imagine Carol, Alice, and Leah are having a chat and a wine. 
+Carol is super-close with Alice, and a little less so with Leah, but she's a but tipsy and her guard is down.
+She shares a rather salacious anecdote about a boyfreind. The story is known to Alice, but is new for Leah.
+Leah now has a temptation: If she were to share the story in a wider group, it would make a compelling reputation claim, demonstrating the intimacy of her relationship with Carol and Alice.
+But it would also be a clear breach of a privacy norm that exists in the smaller triangle. Leah faces constraints either way.
+
+The village Link project would add to those constraints by creating _standard_ ways to make reputation claims.
+It seems rather unlikly that Leah would use the formal system to blab the sexy story, but with the formal system in place, Leah faces the risk that any betrayal _could_ be published formally. 
+The formal system would allow Carol or Alice to control how many onion-rings 'out' to publish this information, presenting them with their own constraints: 
+If the news was shared just in the Carol-and-Alice dyad, it would count as merely 'getting it off your chest'. 
+If it was shared in the wider group, that would have complexit will have complex strategic implications. 
+If it is shared to the whole world, the _act of sharing_ might itself fall foul of norms and diminish the presige of the sharer.
+
+Note the subtlety of an approach to privacy based on reputation graphs: nuance, timing, wording, audience. 
+The approach puts us in the world of Tolstoy and Shakespeare and not the world of Bezos and Zuckerburg.
 
 #### Evolution
 Note that it really does not matter whether the characters in these plays are AIs or people.
