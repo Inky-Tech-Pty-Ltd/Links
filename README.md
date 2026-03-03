@@ -43,7 +43,7 @@ This project is designed to build those individual and collective identities.
 
 #### Relationships
 
-Network analysis is based on sets of points - nodes - used to represent the actors, and sets of lines - edges - used to represent the relationships between actors. 
+Network analysis is based on sets of points - nodes - used to represent actors, and sets of lines - edges - used to represent the relationships between actors. 
 These two objects form the base level of many systems. This is not the approach taken by this project.
 
 Consider a group of 20 teenagers. Within the group, Sophie and Otto are quite high status.
