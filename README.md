@@ -38,7 +38,7 @@ Before the web, the internet was a bunch of islands of information - each very i
 
 Our many public and private social interactions create islands of reputation graph that are scattered across the information space. 
 We don't have a way to pull these things together into a single identity. 
-This project is designed to build those identities.
+This project is designed to build that identity.
 
 ## Village Link
 
