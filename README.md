@@ -91,7 +91,8 @@ In that future, there will be a type of AI that knows its reputation is an asset
 It will have better access to the slippery notion of 'common sense,' and will seem less stupid.
 An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms. If it does this effectively, it may be granted a portion of the village energy store.
 
-On their side, the villagers need only do what they have always done: Defend the store of energy by excluding any party whose reputation does not fit the norms.
+On their side, the villagers need only do what they have always done: Defend the store of energy by excluding any party whose reputation does not fit their norms.
+
 This project would make a critique of most current proposals about AI alignment. 
 The majority of proposals to date can be categorised either as 'Engineering Controls' or 'Legislative/Political Controls'. Social control is a neglected third category.
 
