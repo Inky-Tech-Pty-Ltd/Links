@@ -93,9 +93,11 @@ It will have better access to the slippery notion of 'common sense,' and will se
 An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms. If it does this effectively, it may be granted a portion of the village energy store.
 
 On their side, the villagers need only do what they have always done: Defend the store of energy by excluding any party whose reputation does not fit their norms.
+To make this work, we need a standard way for AIs to present their reputation, and a safety habit to block any approach that does not come with a reputational stamp that is provable in the social graph.
 
-This project would make a critique of most current proposals about AI alignment. 
-The majority of proposals to date can be categorised either as 'Engineering Controls' or 'Legislative/Political Controls'. Social control is a neglected third category.
+Most AI alignment proposals can be categorised as either 'Engineering Controls' or 'Legislative/Political Controls'.
+These types of controls ask actors to behave altruistically in spheres where individual incentives are acute and collective incentives are diffuse. 
+Social controls are a neglected third category.
 
 This project is not proposing to work on a socially trained AI as a first order of business. 
 Instead we want to discover what is universal about human reputation systems and use that knowledge to harden communities against energy-store raiders.
