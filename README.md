@@ -1,5 +1,5 @@
 # Village Link
-A project for building villages.
+Villages are self-governing.
 
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/images/Links%20GitHub%20Banner.jpg)
 www.village.link (This URL will become the front page. Currently it points straight back here.)
@@ -29,7 +29,7 @@ In all cases, the villagers create their rules within a prestige economy.
 The village computer 'thinks' about its environment in an endless political interaction between the villagers. Reputation is at the core.  
 
 This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places both public and private. 
-It argues that an ongiong, gossipy, conversation about reputation is the key to self-governing structures; not only for humans, but also for artificial intelligences.
+It argues that an ongiong, gossipy, conversation about reputation is the key to self-governance; not only for humans, but also for artificial intelligences.
 
 As a structure, the project is an argument by analogy with Tim Berners-Lee and the development of the web:
 
