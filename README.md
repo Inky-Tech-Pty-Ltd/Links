@@ -8,18 +8,27 @@ www.village.link (This URL will become the front page. Currently it points strai
 
 The central thesis of this project is that the village is a computational machine. 
 The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one specific procedure, it is a machine to perform _any_ procedure.
-The programs that run on this machine are the things we call cultural knowledge. 
-Different versions of these programs have allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra; and ultimately to dominate the planet.
+The programs that run on this machine are sets of norms - culture. 
+Knowledge embedded in culture has allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra; and ultimately to dominate the planet.
 
 A village is necessarily a collaborative affair. 
 Collaboration implies governance.
 
-Evolution has designed villages that can:
+Evolutionary pressure has designed the village as a general-purpose machine that can:
 1. Liberate energy from any environment
 2. Distribute energy among the villagers
-3. Resist the threat of raiders, internal or external.
+3. Defend the energy store against raiders, internal or external.
 
-This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places. 
+These deeper governance structures still operate when the wider environment has become lawless.
+They have evolved for collective defence against a jungle that is unknowably vast and dangerous.
+
+The tradition of authorship on governance structures dates back at least to Plato's _Republic_. 
+This project aims to "go up" one level of abstraction from that tradition by putting to one side a discussion about {the right set of rules,} and instead focusing on foundational architecture to support {any set of rules}.
+The set of rules that works in the Australian desert will be different from those that work in the Arctic tundra, and both will be different from the rules that defend against a highly capable and potentially malign AI. 
+In all cases, the villagers create their rules within a prestige economy. 
+The village computer 'thinks' about its environment in an endless political interaction between the villagers. Reputation is at the core.  
+
+This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places both public and private. 
 It argues that an ongiong, gossipy, conversation about reputation is the key to self-governing structures; not only for humans, but also for artificial intelligences.
 
 As a structure, the project is an argument by analogy with Tim Berners-Lee and the development of the web:
@@ -28,14 +37,14 @@ Before the web, the internet was a bunch of islands of information - each very i
 
 Our many public and private social interactions create islands of reputation graph that are scattered across the information space. 
 We don't have a way to pull these things together into a single identity. 
-This project is designed to build those identities, and to build the groups of identities called villages.
+This project is designed to build those individual and collective identities.
 
 ## Village Link
 
 #### Relationships
 
-It is customary in the analysis of networks to draw a set of points - nodes - for the actors, and set of lines - edges - for the relationships. 
-These two objects often form the base level of the system. This is not the approach taken by this project.
+Network analysis is based on sets of points - nodes - used to represent the actors, and sets of lines - edges - used to represent the relationships between actors. 
+These two objects form the base level of many systems. This is not the approach taken by this project.
 
 Consider a group of 20 teenagers. Within the group, Sophie and Otto are quite high status.
 Sophie has a private assessment of the Sophie-Otto relationship, and so does Otto.
@@ -47,17 +56,14 @@ They also strategically _change_ their public claims for different audiences. Ev
 Now, instead of a single line, the Sophie-Otto relationship is revealed as a large, partly opaque, but shimmering bundle of cables.
 This object is one of the components of our village computer. The internal states of the computer create strategic constraints - governance - for the actors.
 
-Now substitute the names 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
+Now change metophor by substituting the names 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
 The new object is the US-Canada relationship. The other dynamics are essentially the same.
-China, Mexico, the UK, Germany, and Russia all make private assessments of the US-Canada relationship. 
-That bundle of wiring is one of the inputs that governs the range of strategic options for Denmark.
+China, Mexico, the UK, Germany, and Russia all generate private assessments and public spin about the US-Canada relationship. 
+That bundle of wiring is part of the set of constraints for Denmark.
 
-This approach does not mean that it's suddenly impossible to have a ceremony that creates a digital identifier of a relationship - but it re-casts that ceremony as an example of a norm.
-
-In this projects, the base-level objects are actors and actions. 
+In this project, the base-level objects are actors and actions. 
 Relationships, villages, membership, and governing norms are derived objects - changeable internal states of the computer.
-They are endlessly contestable.
-
+The members of a community might use formal systems to fix these objects for a time, but in a deeper sense they are always contestable.
 
 #### Artificial Intelligence
 
@@ -80,15 +86,17 @@ They are learning the rules.
 The current generation of AIs do not yet learn the rules and guard their reputation in this way. 
 They don't develop a set of 'commonsense' constraints, and sometimes [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
 
-One of the premises of this project is that social constraints will soon form a part of the training framework for AI. 
+One of the premises of this project is that social constraints that are sensitive to context will soon form a part of the training framework for AI. 
 In that future, there will be a type of AI that knows its reputation is an asset, and that will have in its reward function a digital equivalent of shame. 
 It will have better access to the slippery notion of 'common sense,' and will seem less stupid.
 An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms. If it does this effectively, it may be granted a portion of the village energy store.
 
-On their side, the villagers need only do what they have always done: Exclude any party whose reputation does not fit the norms of the community.
+On their side, the villagers need only do what they have always done: Defend the store of energy by excluding any party whose reputation does not fit the norms.
+This project would make a critique of most current proposals about AI alignment. 
+The majority of proposals to date can be categorised either as 'Engineering Controls' or 'Legislative/Political Controls'. Social control is a neglected third category.
 
-This project is not proposing to work on such an AI as a first order of business. 
-Instead we want to discover what is universal about human reputation systems and develop a common architecture to support those systems.
+This project is not proposing to work on a socially trained AI as a first order of business. 
+Instead we want to discover what is universal about human reputation systems and use that knowledge to harden communities against energy-store raiders.
 
 #### Goals
 The project is motivated by some big problems. How do we? ...
