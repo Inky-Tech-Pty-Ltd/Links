@@ -9,7 +9,7 @@ www.village.link (This URL will become the front page. Currently it points strai
 The central thesis of this project is that the village is a computational machine. 
 The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one specific procedure, it is a machine to perform _any_ procedure.
 The programs that run on this machine are sets of norms - culture. 
-Knowledge embedded in culture has allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra; and ultimately to dominate the planet.
+Knowledge, embedded in culture, has allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra; and ultimately to dominate the planet.
 
 A village is necessarily a collaborative affair. 
 Collaboration implies governance.
