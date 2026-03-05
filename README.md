@@ -9,10 +9,8 @@ www.village.link (This URL will become the front page. Currently it points strai
 The central thesis of this project is that the village is a computational machine. 
 The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one specific procedure, it is a machine to perform _any_ procedure.
 The programs that run on this machine are sets of norms - culture. 
-Knowledge, embedded in culture, has allowed us to thrive in environments as diverse as the Australian desert and the Arctic tundra; and ultimately to dominate the planet.
-
-A village is necessarily a collaborative affair. 
-Collaboration implies governance.
+If you consider one group of humans living in the Arctic tundra, and another in the Australian desert, both are using the same computer, but running different programs.
+The flexibilty and power of this computer is the basis of our dominance of the planet.
 
 Evolutionary pressure has designed the village as a general-purpose machine that can:
 1. Liberate energy from any environment
@@ -23,22 +21,28 @@ These deeper governance structures still operate when the wider environment has 
 They have evolved for collective defence against a jungle that is unknowably vast and dangerous.
 
 The tradition of authorship about governance structures dates back at least to Plato's _Republic_. 
-This project aims to "go up" one level of abstraction from that tradition by putting to one side a discussion about {the right set of rules,} and instead focusing on foundational architecture to support {any set of rules}.
-The set of rules that works in the Australian desert will be different from those that work in the Arctic tundra, and both will be different from the rules that defend against a highly capable and potentially malign AI. 
+This project abstracts away from that tradition by setting to one side a discussion about {the right set of rules,} and instead focusing on foundational architecture to support {any set of rules}.
+The project does not involve itself in debates about what is right or just - leaving those questions as something for villages to deal with.
+However, the project does take a position that the structures that evolved to face the dangers of the jungle have equipped us with some tools for facing the dangers of technology.
 
-In all cases, the villagers create their rules within a prestige economy. 
-The village computer 'thinks' about its environment in an endless interaction that is social and strategic. Reputation is at the core.  
+There are places in the text below that use metaphors of _anarchy among teenagers_ or _anarchy among nations_.
+The metaphors are used as a frame for thinking about anarchy with bots. 
 
-This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places, both public and private. 
-It argues that an ongiong, gossipy, conversation about reputation is the key to self-governance; not only for humans, but also for artificial intelligences.
+It _is_ possible that we will create effective engineering controls for our bots, but there are good reasons to believe that we will not. 
+And it _is_ possible that we will create effective legislative controls for our bots, but again, there are good reasons to believe that we will not.
+This project argues that the deeper substrate of rule-making is social rather than technical or political. 
+All actors, human or otherwise, face a set of constraints based on access to energy. 
+While-ever the extraction of energy is a collaborative affair, the collaborators will strive to make rules about distribution and theft.
+This creates feedback loops back and forth between sets of norms and individual prestige. In a village, prestige is currency. Reputation is core.
 
+This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places. 
 The work in the project comes from an argument by analogy with Tim Berners-Lee and the development of the web:
 
 Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
 
 Our many public and private social interactions create islands of reputation graph that are scattered across the information space. 
-We don't have a way to pull these things together into a single identity. 
-This project is designed to build that identity.
+We don't have a stamdard way to connect those islands. 
+This project is designed to create that standard.
 
 ## Village Link
 
@@ -106,14 +110,15 @@ Instead we want to discover what is universal about human reputation systems and
 The project is motivated by some big problems. How do we? ...
 1. Harden communities against a future AI that is highly capable and potentially malign
     * Address bottlenecks in AI development including alignment, context drift, and [jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
-2. Create a new/old toolkit for thinking about:
+2. Deal with social media and other technologies that create actors that are divorced from reputation
+3. Create a new/old toolkit for thinking about:
    * [Identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity) (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA))
    * Reputation
-   * Social connections
+   * Relationships, social connections
    * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
    * Villages, including
        * Norms, and the evolution of sets of norms
-       * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members). The village firewall, and curation of content for vulnerable members, including children
+       * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members). The village firewall. Curation of content for vulnerable members, including children
        * Non-zero-sum transactional opportunities that leverage both [search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search) and reputation in the social graph
        * Support for work on hard problems of coordinated action.
 
