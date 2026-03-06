@@ -41,34 +41,35 @@ The work in the project comes from an argument by analogy with Tim Berners-Lee a
 Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
 
 Our many public and private social interactions create islands of reputation graph that are scattered across the information space. 
-We don't have a stamdard way to connect those islands. 
+We don't have a standard way to connect those islands. 
 This project is designed to create that standard.
 
 ## Village Link
 
 #### Relationships
 
-Network analysis is based on sets of points - nodes - used to represent actors, and sets of lines - edges - used to represent the relationships. 
+Network analysis is based on sets of points - nodes - used to represent actors, and sets of lines - edges - used to represent relationships. 
 These two objects form the base level of many systems. This is not the approach taken by this project.
 
 Consider a group of 20 teenagers. Within the group, Sophie and Otto are quite high status.
 Sophie has a private assessment of the Sophie-Otto relationship, and so does Otto.
-And so, of course, do the other 18 members of the group. 
-The group discusses relationships constantly. Alliances fuse and split.
+The assessments are like weights, and each could be represented as a number between minus and plus one.
+The other 18 members of the group also make private assessments of the Sophie-Otto relationship. 
+The group discusses relationships constantly. Alliances form and split.
 All members of the group make public claims about relationships. These claims are often different from their private assessments.
 They also strategically _change_ their public claims for different audiences. Everything changes over time.
 
 Now, instead of a single line, the Sophie-Otto relationship is revealed as a large, partly opaque, but shimmering bundle of cables.
-The weightings in these cables are part of the village calculation machine. The internal states of the machine create strategic constraints - governance - for the actors.
+The weightings in these cables are components of the village calculation machine. The internal states of that machine create strategic constraints - governance - for the actors.
 
-Now change metophor by substituting the names 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
-The new object is the US-Canada relationship. The other dynamics are essentially the same.
-China, Mexico, the UK, Germany, and Russia all generate private assessments and public spin about the US-Canada relationship. 
-That bundle of wiring is part of the set of constraints for Denmark.
+Now change metaphor by substituting 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
+The new object is the US-Canada relationship, and the village is now global. The other dynamics are essentially the same:
+China, Mexico, the UK, Germany, and Russia all generate both private assessments and public spin about the US-Canada relationship. 
+The information in that bundle of wiring is part of the set of constraints for Denmark.
 
 In this project, the base-level objects are actors and actions. 
-Relationships, villages at many scales, membership, and governing norms are derived objects - changeable internal states of the computer.
-The members of a community might use formal systems to fix these objects for a time, but in a deeper sense they are always contestable.
+Relationships, villages, membership, and governing norms are derived objects - changeable internal states of the computer.
+The members of a specific community might use formal systems to fix these objects for a time, but in a deeper sense they are endlessly contestable.
 
 #### Artificial Intelligence
 
@@ -92,24 +93,20 @@ The current generation of AIs do not yet learn the rules and guard their reputat
 They don't develop a set of 'commonsense' constraints, and sometimes [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
 
 One of the premises of this project is that social constraints that are sensitive to context will soon form a part of the training framework for AI. 
-In that future, there will be a type of AI that knows its reputation is an asset, and that will have in its reward function a digital equivalent of shame. 
+In that future, there will be a type of AI that knows its reputation is an asset, and that will have in its reward function, digital equivalents of shame and other strong emotions. 
 It will have better access to the slippery notion of 'common sense,' and will seem less stupid.
 An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms. If it does this effectively, it may be granted a portion of the village energy store.
 
 On their side, the villagers need only do what they have always done: Defend the store of energy by excluding any party whose reputation does not fit their norms.
-To make this work, we need a standard way for AIs to present their reputation, and a safety habit to block any approach that does not come with a reputational stamp that is provable in the social graph.
+To make this work, we need a standard way for AIs to present their reputation at the village gates. 
+In a world where AIs might be arbitrarily dangerous, we can expect the village gates to be defended.
 
-Most AI alignment proposals can be categorised as either 'Engineering Controls' or 'Legislative/Political Controls'.
-These types of controls ask actors to behave altruistically in spheres where individual incentives are acute and collective incentives are diffuse. 
-Social controls are a neglected third category.
-
-This project is not proposing to work on a socially trained AI as a first order of business. 
+This project is not proposing to work on such an AI as a first order of business. 
 Instead we want to discover what is universal about human reputation systems and use that knowledge to harden communities against energy-store raiders.
 
 #### Goals
 The project is motivated by some big problems. How do we? ...
 1. Harden communities against a future AI that is highly capable and potentially malign
-    * Address bottlenecks in AI development including alignment, context drift, and [jagged intelligence](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence)
 2. Deal with social media and other technologies that create actors that are divorced from reputation
 3. Create a new/old toolkit for thinking about:
    * [Identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity) (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA))
@@ -122,19 +119,36 @@ The project is motivated by some big problems. How do we? ...
        * Non-zero-sum transactional opportunities that leverage both [search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search) and reputation in the social graph
        * Support for work on hard problems of coordinated action.
 
-#### Architecture
-The project aims to build a type of decentralized agent that can:
-1. Store reputational information
-2. Make reputational claims about itself, (identity claims,) and about others
-3. Assess the reputational claims of others by checking its own data store, and by querying the social graph
-4. Make decisions about what reputational claims are to be shared with whom
-5. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation. (Connection weights are the synaptic tissue of the village thinking machine.)
+### What to build?
 
-The one-word description of the architecture is *gossip*. 
+The 'build' task in the project is to create something small and simple, but to create it in such a way that it can evolve to any level of sophistication. 
+We want a standard way to make a reputation claim. 
+An example of a current, non-standard, set of reputation claims is a good starting point:
 
-(Note that there are currently two competing drafts for the fundamental elements of the project, see [Axioms](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Axioms))
+The screen shot below is taken from the [home page](https://sjbyrnes.com/) of Steve Byrne, an author in AI Safety. (Any similar page would serve the purpose.)
+<p align="center">
+<img style="width: 80%; height: auto;" alt="Screen shot - Steve Byrne&#39;s Home Page" src="https://github.com/user-attachments/assets/01e8d7d8-960e-46a6-8df4-d71c613397a4" />
+</p>
 
-The disruptive opportunity in the project comes from giving each entity one or more agents that can coordinate a reputational asset that is currently scattered across many domains, many channels, and many stores of information.
+Byrnes' page is like the reference section of a CV. 
+It directly connects to 21 separate villages, and indirectly to many more. 
+
+A world that had a _standard_ way of presenting this data would lead to an evolving ecosystem of queries that can read it.
+A query run over this data set could make an assessment of Steve's skills and contributions and the 'good faith' nature of his interactions. 
+Such a query would uncover multiple pathways to Steve through social graphs, including the possibility of 'two hop' mututal connections betwen Steve and the reader.
+
+_But we know this is scary._
+
+The reputation claims on Steve's home page have all-but doxxed him.
+Somewhere at the back our minds we know we are all doxxed in a similar way by the large platfoms, by government, and potentially by any party with designs on our assets, or who suspects we might be a threat.
+To adress these dangers, Steve might also want a standard that allows him to control what reputation claims he makes to what audience.
+
+#### Outcomes
+The project will create a world where actors have standard ways to:
+1. Make reputational claims about themselves (identity claims) and others
+2. Assess the reputational claims of others
+3. Use 'village' context to make decisions about what reputational claims are to be shared with whom
+4. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation.
 
 #### Bootstrap
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
