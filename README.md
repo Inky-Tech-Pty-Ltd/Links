@@ -9,7 +9,7 @@ www.village.link (This URL will become the front page. Currently it points strai
 The central thesis of this project is that the village is a computational machine. 
 The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one specific procedure, it is a machine to perform _any_ procedure.
 The programs that run on this machine are sets of norms - culture. 
-If you consider one group of humans living in the Arctic tundra, and another in the Australian desert, both are using the same computer, but running different programs.
+If you consider one group of humans living in the Arctic tundra, and another in the Australian desert, both are using the same type of computer, but running different programs.
 The flexibilty and power of this computer is the basis of our dominance of the planet.
 
 Evolutionary pressure has designed the village as a general-purpose machine that can:
