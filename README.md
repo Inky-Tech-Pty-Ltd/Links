@@ -154,7 +154,7 @@ The project will create a world where actors have standard ways to:
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
 Thankfully, we don't have to write those strategies - we just have to write the foundation.
 
-A bootstrap path would be to search the web for examples like the 'Steve Byrne home page' example cited above, and use the data to create identities that conform to the proposed standard.
+A bootstrap path would be to search the web for examples like the 'Steve Byrne home page' example above, and use the data to create identities that conform to the proposed standard.
 This strategy is uncomfortably close to practises employed by exactly those actors the project is trying to resist.
 
 _Would this be OK?_ 
