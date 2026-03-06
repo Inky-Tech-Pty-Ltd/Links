@@ -25,6 +25,10 @@ This project abstracts away from that tradition by setting to one side a discuss
 The project does not involve itself in debates about what is right or just - leaving those questions as something for villages to deal with.
 However, the project does take a position that the structures that evolved to face the dangers of the jungle have equipped us with some tools for facing the dangers of technology.
 
+## Village Link
+
+#### Next-best safety when the rules break down
+
 There are places in the text below that use metaphors of _anarchy among teenagers_ or _anarchy among nations_.
 The metaphors are used as a frame for thinking about anarchy with bots. 
 
@@ -43,8 +47,6 @@ Before the web, the internet was a bunch of islands of information - each very i
 Our many public and private social interactions create islands of reputation graph that are scattered across the information space. 
 We don't have a standard way to connect those islands. 
 This project is designed to create that standard.
-
-## Village Link
 
 #### Relationships
 
