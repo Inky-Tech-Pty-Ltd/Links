@@ -154,15 +154,21 @@ The project will create a world where actors have standard ways to:
 The project envisages sets of reputational strategies that can evolve to any level of sophistication. 
 Thankfully, we don't have to write those strategies - we just have to write the foundation.
 
-However, to bootstrap the project, it seems sensible to build and release some agents to their rightful owners.
-These agents would be equipped with some strategies, however rudimentary.
-To do this, the project will harvest examples from existing reputation systems. 
-Many types already exist, and some are in the public domain.
-In using this data, the project does not have to capture every nuance. 
-Instead, it just needs to capture a few key 'seed' features, and ensure that the system is evolvable.
+A bootstrap path would be to search the web for examples like the 'Steve Byrne home page' example cited above, and use the data to create identities that conform to the proposed standard.
+This strategy is uncomfortably close to practises employed by exactly those actors the project is trying to resist.
 
-The harvesting of people's reputational data is not morally value-free. 
-The issue is explored more deeply on the page, [Outrageous Liberties](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Outrageous-Liberties).
+_Would this be OK?_ 
+
+Only if (as a minimum):
+
+1. The project has impeccable open source credentials
+2. We complete as thorough a risk-assessment as possible
+3. We expand carefully into test-case audiences with skills that mean they are well-placed to assess the work
+4. The outputs really are assets, and that it is as light as a feather to give those assets to their rightful owners
+   * ... including shutting those identites down when requested
+5. What else? 
+
+(There is some more exploration of the question on the repo wiki page called [Taking Outrageous Liberties](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Outrageous-Liberties).)
 
 #### Reputation, rudimentary and not-so-rudimentary
 There are many places online where Bob can call attention to Alice using the _@Alice_ convention. 
