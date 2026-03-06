@@ -119,7 +119,7 @@ The project is motivated by some big problems. How do we? ...
        * Non-zero-sum transactional opportunities that leverage both [search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search) and reputation in the social graph
        * Support for work on hard problems of coordinated action.
 
-### What to build?
+#### What to build?
 
 The 'build' task in the project is to create something small and simple, but to create it in such a way that it can evolve to any level of sophistication. 
 We want a standard way to make a reputation claim. 
