@@ -33,7 +33,7 @@ And it _is_ possible that we will create effective legislative controls for our 
 This project argues that the deeper substrate of rule-making is social rather than technical or political. 
 All actors, human or otherwise, face a set of constraints based on access to energy. 
 While-ever the extraction of energy is a collaborative affair, the collaborators will strive to make rules about distribution and theft.
-This creates feedback loops back and forth between sets of norms and individual prestige. In a village, prestige is currency. Reputation is core.
+This creates feedback loops back and forth between sets of village norms and individual prestige. In a village, prestige is currency. Reputation is core.
 
 This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places. 
 The work in the project comes from an argument by analogy with Tim Berners-Lee and the development of the web:
