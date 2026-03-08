@@ -198,18 +198,48 @@ These are the punishment strategies of the village. Bob needs to assess these ri
 
 (But she's a Wikipedia admin, right? Aren't they bottomlessly generous?)
 
-#### Privacy
+#### Privacy, Context, Presitige, Relationships
 
-Carol has accepted that she will be *in public* whenever she uses Wikipedia, GitHub, or YouTube. 
-She is most-likely also a member of some private villages - perhaps her nuclear family, or the village of Carol-and-two-friends.
-Inside these villages, it is probable that there is a deeply-held norm that certain types of information are not to be made public.
-Privacy is a norm.
+* Arrgh! - too many words in the section. How to say this thing simply? DRAFT
 
-Imagine Carol, Alice, and Leah are having a chat and a wine. 
-Carol is super-close with Alice, and a little less so with Leah, but she's a but tipsy and her guard is down.
-She shares a rather salacious anecdote about a boyfreind. The story is known to Alice, but is new for Leah.
-Leah now has a temptation: If she were to share the story in a wider group, it would make a compelling reputation claim, demonstrating the intimacy of her relationship with Carol and Alice.
-But it would also be a clear breach of a privacy norm that exists in the smaller triangle. Leah faces constraints either way.
+Carol has accepted that she will be _in public_ whenever she uses Wikipedia, GitHub, or YouTube.
+The public world is only the outermost of a series of overlapping contextual layers that Carol cares about.
+She also cares about workplace, professional network, neighbourhood, maybe church and school, distant and closer friends, distant and closer family.
+Inside each of these layers there will be norms that certain types of information should not appear out of context.
+
+
+
+Privacy is a norm. There are sanctions for breach, but many of the rules are unwritten, and the subtleties are bottomless.
+
+Let's switch again to the 'teenager' metaphor. Carol is older, and is too sophisticated to make the kind of mistakes that best illustrate the point. 
+We need amatuers:
+
+Sophie, Lucy, and Jen are girls in their late teens. 
+They have begun their exploration of nightclubs, alcohol, and adventure. 
+
+The three young women are in the back of a car (my car!) after a night out.
+Sophie shares a hilarious, salacious, and potentially reputation-destroying story.
+This is a reputation claim. Sophie is showing her vulnerabe underside as a plea for trust.
+But Sophie is a bit drunk and she has made a mistake. 
+Her relationship with Lucy is solid, but Jen is resentful and feels like the third wheel.
+
+If Jen shares the juicy story with a wider group, it makes a compelling reputation claim.
+It both demonstrates intimacy inside the smaller triangle, and can be window-dressed as moral outrage.
+
+But sharing would also be a clear betrayal of trust. Even the wider group might notice this, and police it.
+Jen has opportunities and threats. She is constrained by privacy norms - even if the norms are unwritten, and constantly in motion.
+
+The approach to privacy in technology projects i clumnky by comparison.
+Most technology projects are approaching privacy with concepts to address the asymmetry between personal data and global-scale repositories. 
+For example, a Zero-Knowldge Proof would allow a statement like 'I have a valid driver's licence" without having to present a card that also reveals a raft of other information that is not directly relevant to the trasaction.
+In one sense this technology is very clever, but it captures none of the subtlties 
+Also it presents the user with a large, constant, intellectually demanding data-management problem. We are lazy. We won't do it.
+Of course the Sophie-Lucy-Jen inteaction is also a large, constant, and intellectually demanding data-managment problem 
+
+verifiable 
+
+Note that in the story above, the mutual drunkenness is also a kind of reputation claim: 
+we are in a world of endless subtlety where it might be rational to deliberately hand blackmail material to your protagonist.
 
 The village Link project would add to those constraints by creating _standard_ ways to make reputation claims.
 It seems rather unlikly that Leah would use the formal system to blab the sexy story, but with the formal system in place, Leah faces the risk that any betrayal _could_ be published formally. 
@@ -220,6 +250,8 @@ If it is shared to the whole world, the _act of sharing_ might itself fall foul 
 
 Note the subtlety of an approach to privacy based on reputation graphs: nuance, timing, wording, audience. 
 The approach puts us in the world of Tolstoy and Shakespeare and not the world of Bezos and Zuckerburg.
+
+We want Tolstoy and Shakespeare, but we're getting Bezos and Zuck.
 
 #### Evolution
 Note that it really does not matter whether the characters in these plays are AIs or people.
