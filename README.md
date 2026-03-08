@@ -9,7 +9,7 @@ www.village.link (This URL will become the front page. Currently it points strai
 The central thesis of this project is that the village is a computational machine. 
 The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one specific procedure, it is a machine to perform _any_ procedure.
 The programs that run on this machine are sets of norms - culture. 
-If you consider one group of humans living in the Arctic tundra, and another in the Australian desert, both are using the same type of computer, but running different programs.
+If you consider one group of humans living in the Arctic tundra, and another in the Australian desert, both are using the same computer, but running different programs.
 The flexibilty and power of this computer is the basis of our dominance of the planet.
 
 Evolutionary pressure has designed the village as a general-purpose machine that can:
@@ -20,27 +20,35 @@ Evolutionary pressure has designed the village as a general-purpose machine that
 These deeper governance structures still operate when the wider environment has become lawless.
 They have evolved for collective defence against a jungle that is unknowably vast and dangerous.
 
-The tradition of authorship about governance structures dates back at least to Plato's _Republic_. 
+The tradition of authorship on governance structures dates back at least to Plato's _Republic_. 
 This project abstracts away from that tradition by setting to one side a discussion about {the right set of rules,} and instead focusing on foundational architecture to support {any set of rules}.
-The project does not involve itself in debates about what is right or just - leaving those questions as something for villages to deal with.
-However, the project does take a position that the structures that evolved to face the dangers of the jungle have equipped us with some tools for facing the dangers of technology.
+The project largely avoids debates about what is right or just - leaving those questions as something for villages to deal with.
+
+The project _does_ take a position that the structures that evolved to face the dangers of the jungle have equipped us with some tools for facing the dangers of technology. 
+Also that we could further strengthen those tools by introducing a standard way to support the feedback loop between community norms and individual prestige.
 
 ## Village Link
 
 #### Next-best safety when the rules break down
 
-There are places in the text below that use metaphors of _anarchy among teenagers_ or _anarchy among nations_.
+There are metaphors in the text below, either of _anarchy among teenagers_ or, to demonstrate scalability, of _anarchy among nations_.
 The metaphors are used as a frame for thinking about anarchy with bots. 
 
-It _is_ possible that we will create effective engineering controls for our bots, but there are good reasons to believe that we will not. 
-And it _is_ possible that we will create effective legislative controls for our bots, but again, there are good reasons to believe that we will not.
-This project argues that the deeper substrate of rule-making is social rather than technical or political. 
+It _is_ possible that we will create effective engineering controls for our bots. There are good reasons to believe that we might not. 
+And it _is_ possible that we will create effective legislative controls for our bots; but again, there are good reasons to believe that we might not.
+In a strategically contested environment, it is precautionary to assume that engineers and legislators will explore the whole space and create some things that are dangerous.
+That does not mean the space becomes lawless.
+We can constrain the space with a deeper substrate of rules that are social rather than technical or political. 
+
 All actors, human or otherwise, face a set of constraints based on access to energy. 
-While-ever the extraction of energy is a collaborative affair, the collaborators will strive to make rules about distribution and theft.
-This creates feedback loops back and forth between sets of village norms and individual prestige. In a village, prestige is currency. Reputation is core.
+While-ever the extraction of energy is a collaborative affair, the collaborators will strive to make and enforce rules about distribution and theft.
+This creates feedback loops between the rules of the collective and the aspirations of the individual. In this economy, prestige is currency.
+
+#### A Standard
 
 This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places. 
-The work in the project comes from an argument by analogy with Tim Berners-Lee and the development of the web:
+
+The approach comes from an argument by analogy with Tim Berners-Lee and the development of the web:
 
 Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
 
@@ -55,7 +63,6 @@ These two objects form the base level of many systems. This is not the approach 
 
 Consider a group of 20 teenagers. Within the group, Sophie and Otto are quite high status.
 Sophie has a private assessment of the Sophie-Otto relationship, and so does Otto.
-The assessments are like weights, and each could be represented as a number between minus and plus one.
 The other 18 members of the group also make private assessments of the Sophie-Otto relationship. 
 The group discusses relationships constantly. Alliances form and split.
 All members of the group make public claims about relationships. These claims are often different from their private assessments.
@@ -67,10 +74,10 @@ The weightings in these cables are components of the village calculation machine
 Now change metaphor by substituting 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
 The new object is the US-Canada relationship, and the village is now global. The other dynamics are essentially the same:
 China, Mexico, the UK, Germany, and Russia all generate both private assessments and public spin about the US-Canada relationship. 
-The information in that bundle of wiring is part of the set of constraints for Denmark.
+The information in that bundle of cabling is part of the set of constraints for Denmark.
 
 In this project, the base-level objects are actors and actions. 
-Relationships, villages, membership, and governing norms are derived objects - changeable internal states of the computer.
+Relationships, villages, membership, and norms are derived objects - changeable internal states of the computer.
 The members of a specific community might use formal systems to fix these objects for a time, but in a deeper sense they are endlessly contestable.
 
 #### Artificial Intelligence
@@ -94,27 +101,24 @@ They are learning the rules.
 The current generation of AIs do not yet learn the rules and guard their reputation in this way. 
 They don't develop a set of 'commonsense' constraints, and sometimes [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
 
-One of the premises of this project is that social constraints that are sensitive to context will soon form a part of the training framework for AI. 
+One of the premises of this project is that social constraints will soon form a part of the training framework for AI. 
 In that future, there will be a type of AI that knows its reputation is an asset, and that will have in its reward function, digital equivalents of shame and other strong emotions. 
 It will have better access to the slippery notion of 'common sense,' and will seem less stupid.
 An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms. If it does this effectively, it may be granted a portion of the village energy store.
 
 On their side, the villagers need only do what they have always done: Defend the store of energy by excluding any party whose reputation does not fit their norms.
-To make this work, we need a standard way for AIs to present their reputation at the village gates. 
-In a world where AIs might be arbitrarily dangerous, we can expect the village gates to be defended.
-
-This project is not proposing to work on such an AI as a first order of business. 
-Instead we want to discover what is universal about human reputation systems and use that knowledge to harden communities against energy-store raiders.
+To make this work, we need a standard way for AIs to present their reputation at the village gate. 
+In a world where an AI might be arbitrarily dangerous, village gates will be defended.
 
 #### Goals
 The project is motivated by some big problems. How do we? ...
 1. Harden communities against a future AI that is highly capable and potentially malign
 2. Deal with social media and other technologies that create actors that are divorced from reputation
 3. Create a new/old toolkit for thinking about:
-   * [Identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity) (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication,-Passwords,-and-2FA))
+   * [Identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity) (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication))
    * Reputation
-   * Relationships, social connections
-   * [Connection weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities)
+   * Relationships, connections
+   * Connection [weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights)
    * Villages, including
        * Norms, and the evolution of sets of norms
        * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members). The village firewall. Curation of content for vulnerable members, including children
