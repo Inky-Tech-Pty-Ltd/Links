@@ -127,33 +127,63 @@ The project is motivated by some big problems. How do we? ...
 
 #### What to build?
 
-The 'build' task in the project is to create something small and simple, but to create it in such a way that it can evolve to any level of sophistication. 
-We want a standard way to make a reputation claim. 
-An example of a current, non-standard, set of reputation claims is a good starting point:
+The 'build' task in the project is to create something small and simple.
+The base-level objects in the project are only _actors_ and _actions_. 
+The sets of rules that govern villages are derived objects, created by the villgers themselves. Those rules can evolve to any level of sophistication.
+But we don't want the rules of the standard to interfere with rules made by villages. The ideal for the standard is a tiny, almost axiomatic, set of rules.
+
+We want a standard way to make a reputation claim.
+
+A current example of a non-standard set of reputation claims is a good starting point:
 
 The screen shot below is taken from the [home page](https://sjbyrnes.com/) of Steve Byrne, an author in AI Safety. (Any similar page would serve the purpose.)
 <p align="center">
 <img style="width: 80%; height: auto;" alt="Screen shot - Steve Byrne&#39;s Home Page" src="https://github.com/user-attachments/assets/01e8d7d8-960e-46a6-8df4-d71c613397a4" />
 </p>
 
-Byrnes' page is like the reference section of a CV. 
+Steve Byrnes' page is like the reference section of a CV. 
 It directly connects to 21 separate villages, and indirectly to many more. 
 
 A world that had a _standard_ way of presenting this data would lead to an evolving ecosystem of queries that can read it.
 A query run over this data set could make an assessment of Steve's skills and contributions and the 'good faith' nature of his interactions. 
-Such a query would uncover multiple pathways to Steve through social graphs, including the possibility of 'two hop' mututal connections betwen Steve and the reader.
+Such a query would uncover multiple pathways to Steve through social graphs, including the possibility of 'two hop' mututal connections between Steve and the reader.
 
 _But we know this is scary._
 
-The reputation claims on Steve's home page have all-but doxxed him.
-Somewhere at the back our minds we know we are all doxxed in a similar way by the large platfoms, by government, and potentially by any party with designs on our assets, or who suspects we might be a threat.
-To adress these dangers, Steve might also want a standard that allows him to control what reputation claims he makes to what audience.
+The reputation claims on Byrnes' home page have all-but doxxed him.
+To address these dangers, Byrnes might also want a standard that allows him to control what reputation claims he makes to what audience.
+
+#### Context, Audience
+
+An easy way to think about context is like the rings of an onion. The outermost layer of the onion is the whole world.
+The reputation claims in the screen shot above are ones that Byrnes is prepared to make to the whole world.
+As we come in through rings of the onion, we might have Byrnes' workplace, his community of friends, distant and then more intimate family
+
+Bt the onion-ring analogy breaks down when these groupings overlap. The hash-tag convention can capture this additional complexity, and is a better model. 
+
+#### Villages
+
+But our project only has _actors_ and _actions_ at the base level. 
+It does not have villages, and it does not even want to place any constraints on what a village might be.
+
+
+Also, the project is asserting that governance is based partly on the endlessly contestable alliances of the examples with _anarchy among teenagers_ or _anarchy among nations_.
+
+
+The Steve Byrnes' example above includes assertions that certain groups of people exist - 'Harvard', 'Astera', 'GitHub'. 
+It's not contentious that these well-known groupings really do exist; but the project needs a  
+way of representing _any_ grouping, including the contested alliances in the examples above of 
+
+The standard has only 'actors' and 'actions' as base-level objects. It does not have centralizing institutions like 'GitHub'.
+Or rather, the standard is leaving it to actors whether or not they will build centralized institutions, and what rules they will use that relate to those institutons.
+
+
 
 #### Outcomes
-The project will create a world where actors have standard ways to:
+The project will create standard ways for actors to:
 1. Make reputational claims about themselves (identity claims) and others
 2. Assess the reputational claims of others
-3. Use 'village' context to make decisions about what reputational claims are to be shared with whom
+3. Use context to make decisions about what reputational claims are to be shared with whom
 4. Seek out, strengthen, weaken, or shut down [connections](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights.-Similarities-between-brains-and-communities) based on reputation.
 
 #### Bootstrap
