@@ -4,154 +4,67 @@ Villages are self-governing.
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/images/Links%20GitHub%20Banner.jpg)
 www.village.link (This URL will become the front page. Currently it points straight back here.)
 
-## Abstract
+## Background
 
-The central thesis of this project is that the village is a computational machine. 
-The village performs the fundamental requirement of a computer: That, instead of being a machine to perform one specific procedure, it is a machine to perform _any_ procedure.
-The programs that run on this machine are sets of norms - culture. 
-If you consider one group of humans living in the Arctic tundra, and another in the Australian desert, both are using the same computer, but running different programs.
-The flexibilty and power of this computer is the basis of our dominance of the planet.
+This project rests on a thesis that the village is a computational machine. 
+This machine performs the fundamental requirement of a computer: That, instead of being a device to perform a specific procedure, it is a device to perform _any_ procedure.
+The programs that run on this computer are sets of norms - culture. 
 
-Evolutionary pressure has designed the village as a general-purpose machine that can:
+Consider two groups of humans, one living in the Arctic tundra, and another in the Australian desert. Both groups are using the same computer, but running different programs.
+The flexibilty and power of this system is the basis of our dominance of the planet.
+
+Evolutionary pressure has designed the village as a general-purpose machine to:
 1. Liberate energy from any environment
-2. Distribute energy among the villagers
+2. Distribute energy among villagers
 3. Defend the energy store against raiders, internal or external.
 
-These deeper governance structures still operate when the wider environment has become lawless.
-They have evolved for collective defence against a jungle that is unknowably vast and dangerous.
+For our species, the liberation of energy has always been a collaborative affair. While-ever this is the case, we need governance. 
+This will remain true as our energy economy begins to incorporate non-human actors.
 
-The tradition of authorship on governance structures dates back at least to Plato's _Republic_. 
-This project abstracts away from that tradition by setting to one side a discussion about {the right set of rules,} and instead focusing on foundational architecture to support {any set of rules}.
-The project largely avoids debates about what is right or just - leaving those questions as something for villages to deal with.
+This project 'abstracts away' from the long tradition of civic debate about {the right set of rules}, focusing instead on foundational architecture that will support {any set of rules}.
 
-The project _does_ take a position that the structures that evolved to face the dangers of the jungle have equipped us with some tools for facing the dangers of technology. 
-Also that we could further strengthen those tools by introducing a standard way to support the feedback loop between community norms and individual prestige.
+That foundation is reputational.
+Villages are reputation economies where both opportunities and risks are tied to networks of belonging; where prestige bubbles up or down, and where expulsion is the ultimate sanction.
+Prestige, and occasionally expulsion, are in play for villages at any scale - from schoolyard politics to geopolitics.
 
-## Village Link
+We believe the internet is currently poised on the edge of a 'Tim Berners-Lee' moment.
+Before Berners-Lee and the development of the web, the internet consisted of islands of information - each interesting in its own right, but much richer with the web as a connective tissue.
 
-#### Next-best safety when the rules break down
-
-There are metaphors in the text below, either of _anarchy among teenagers_ or, to demonstrate scalability, of _anarchy among nations_.
-The metaphors are used as a frame for thinking about anarchy with bots. 
-
-It _is_ possible that we will create effective engineering controls for our bots. There are good reasons to believe that we might not. 
-And it _is_ possible that we will create effective legislative controls for our bots; but again, there are good reasons to believe that we might not.
-In a strategically contested environment, it is precautionary to assume that engineers and legislators will explore the whole space and create some things that are dangerous.
-That does not mean the space becomes lawless.
-We can constrain the space with a deeper substrate of rules that are social rather than technical or political. 
-
-All actors, human or otherwise, face a set of constraints based on access to energy. 
-While-ever the extraction of energy is a collaborative affair, the collaborators will strive to make and enforce rules about distribution and theft.
-This creates feedback loops between the rules of the collective and the aspirations of the individual. In this economy, prestige is currency.
-
-#### A Standard
-
-This project aims to create a standard that makes it possible to weld together pieces of reputation graph that are currently scattered in many places. 
-
-The approach comes from an argument by analogy with Tim Berners-Lee and the development of the web:
-
-Before the web, the internet was a bunch of islands of information - each very interesting in its own right, but ultimately much richer once it had a connective tissue.
-
-Our many public and private social interactions create islands of reputation graph that are scattered across the information space. 
+Right now our many public and private social interactions create islands of 'reputation graph' that are scattered across the information space. 
 We don't have a standard way to connect those islands. 
-This project is designed to create that standard.
+The work in the project is to create that standard, and then begin spinning the web of connective tissue; quite rudely asking mostly for forgiveness rather than permission.
 
-#### Relationships
+The project has contributions to make in:
+1. Identity and authentication
+2. AI Alignment
+3. Norms, and the evolution of sets of norms
+4. Defences, firewall, curation in the face of our vulnerabilities, including the vulnerabilities of children
+   * (NB censorship)
+5. Privacy
+6. Non-zero transactional opportunities that leverage both search and reputation in the social graph
+7. Support for work on hard problems of coordinated action
+8. Prestige, gossip, and the game theory of governance.
+   
+The word-count on this current page is controlled by splitting these discussions off into [the wiki associated with the repo](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki) - please contribute!
 
-Network analysis is based on sets of points - nodes - used to represent actors, and sets of lines - edges - used to represent relationships. 
-These two objects form the base level of many systems. This is not the approach taken by this project.
+## The Project
 
-Consider a group of 20 teenagers. Within the group, Sophie and Otto are quite high status.
-Sophie has a private assessment of the Sophie-Otto relationship, and so does Otto.
-The other 18 members of the group also make private assessments of the Sophie-Otto relationship. 
-The group discusses relationships constantly. Alliances form and split.
-All members of the group make public claims about relationships. These claims are often different from their private assessments.
-They also strategically _change_ their public claims for different audiences. Everything changes over time.
+The starting position of the project is that the whole mass of knowledge-work on the planet is reputational.
+Every time any person, or indeed a non-person, creates content, they are demonstrating for better or worse, their skills, knowledge, networks, awareness of context and norms, and willingness to deal in good faith.
+The standard will create a way for any part of this material to be refashioned as a reputation claim.
 
-Now, instead of a single line, the Sophie-Otto relationship is revealed as a large, partly opaque, but shimmering bundle of cables.
-The weightings in these cables are components of the village calculation machine. The internal states of that machine create strategic constraints - governance - for the actors.
+An example is given below. 
+There's a risk that this example might distract from the general case: This is _one instance_ standing in for _all content everywhere_, public or private.
 
-Now change metaphor by substituting 'USA' and 'Canada' for 'Sophie' and 'Otto'. 
-The new object is the US-Canada relationship, and the village is now global. The other dynamics are essentially the same:
-China, Mexico, the UK, Germany, and Russia all generate both private assessments and public spin about the US-Canada relationship. 
-The information in that bundle of cabling is part of the set of constraints for Denmark.
-
-In this project, the base-level objects are actors and actions. 
-Relationships, villages, membership, and norms are derived objects - changeable internal states of the computer.
-The members of a specific community might use formal systems to fix these objects for a time, but in a deeper sense they are endlessly contestable.
-
-#### Artificial Intelligence
-
-AIs routinely make gaffes that would be a source of bemusement, shock, or ridicule in a village. 
-A village is a reputation economy where gaffes have consequences. 
-For flesh-and-blood intelligences like you and me, gaffes are associated with the sting of shame. 
-Our reputation is an asset. If we compromise that asset, it feels terrible.
-Shame is a deep learning experience that re-wires the brain. 
-
-Collectively, a village is policing a set of norms. 
-In this world, each individual must find a balance between compliance and ambition.
-The norms aren't static. 
-Politics is the process of pushing the norms around, and sometimes changing them. Norms evolve. 
-
-Human brains grow to maturity inside the reputation economy of a village. 
-As they do so, the brains develop constraints that guard against loss of prestige. 
-It is illustrative that teenagers can be acutely vulnerable to shame. 
-They are learning the rules.
-
-The current generation of AIs do not yet learn the rules and guard their reputation in this way. 
-They don't develop a set of 'commonsense' constraints, and sometimes [they seem stupid](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Jagged-Intelligence). 
-
-One of the premises of this project is that social constraints will soon form a part of the training framework for AI. 
-In that future, there will be a type of AI that knows its reputation is an asset, and that will have in its reward function, digital equivalents of shame and other strong emotions. 
-It will have better access to the slippery notion of 'common sense,' and will seem less stupid.
-An AI that knows that its reputation is the price of entry will have a better chance of aligning its behaviour with village norms. If it does this effectively, it may be granted a portion of the village energy store.
-
-On their side, the villagers need only do what they have always done: Defend the store of energy by excluding any party whose reputation does not fit their norms.
-To make this work, we need a standard way for AIs to present their reputation at the village gate. 
-In a world where an AI might be arbitrarily dangerous, village gates will be defended.
-
-#### Goals
-The project is motivated by some big problems. How do we? ...
-1. Harden communities against a future AI that is highly capable and potentially malign
-2. Deal with social media and other technologies that create actors that are divorced from reputation
-3. Create a new/old toolkit for thinking about:
-   * [Identity](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Identity) (and [authentication](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Authentication))
-   * Reputation
-   * Relationships, connections
-   * Connection [weights](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Connection-weights)
-   * Villages, including
-       * Norms, and the evolution of sets of norms
-       * [Village defences](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Village-defences,-vulnerable-members). The village firewall. Curation of content for vulnerable members, including children
-       * Non-zero-sum transactional opportunities that leverage both [search](https://github.com/Inky-Tech-Pty-Ltd/Links/wiki/Search) and reputation in the social graph
-       * Support for work on hard problems of coordinated action.
-
-#### What to build?
-
-The 'build' task in the project is to create something small and simple.
-The base-level objects in the project are only _actors_ and _actions_. 
-The sets of rules that govern villages are derived objects, created by the villgers themselves. Those rules can evolve to any level of sophistication.
-But we don't want the rules of the standard to interfere with rules made by villages. The ideal for the standard is a tiny, almost axiomatic, set of rules.
-
-We want a standard way to make a reputation claim.
-
-A current example of a non-standard set of reputation claims is a good starting point:
-
-The screen shot below is taken from the [home page](https://sjbyrnes.com/) of Steve Byrne, an author in AI Safety. (Any similar page would serve the purpose.)
 <p align="center">
 <img style="width: 80%; height: auto;" alt="Screen shot - Steve Byrne&#39;s Home Page" src="https://github.com/user-attachments/assets/01e8d7d8-960e-46a6-8df4-d71c613397a4" />
 </p>
+(Taken with permission from the [home page of Steve Byrne](https://sjbyrnes.com/), an author in AI Safety.)
 
-Steve Byrnes' page is like the reference section of a CV. 
-It directly connects to 21 separate villages, and indirectly to many more. 
+The page shows Byrnes investing time to create a reputational asset. What things might a standard offer to add value to that asset?
 
-A world that had a _standard_ way of presenting this data would lead to an evolving ecosystem of queries that can read it.
-A query run over this data set could make an assessment of Steve's skills and contributions and the 'good faith' nature of his interactions. 
-Such a query would uncover multiple pathways to Steve through social graphs, including the possibility of 'two hop' mututal connections between Steve and the reader.
 
-_But we know this is scary._
-
-The reputation claims on Byrnes' home page have all-but doxxed him.
-To address these dangers, Byrnes might also want a standard that allows him to control what reputation claims he makes to what audience.
+{ ... content required here ... }
 
 #### Context, Audience
 
