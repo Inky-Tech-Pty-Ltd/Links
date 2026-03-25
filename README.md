@@ -56,10 +56,19 @@ The standard will create a way for any part of this material to be refashioned a
 An example is given below. 
 There's a risk that this example might distract from the general case: This is _one instance_ standing in for _all content everywhere_, public or private.
 
+
+  <figure>
+    <img style="width: 80%; height: auto;" alt="Screen shot - Steve Byrne&#39;s Home Page" src="https://github.com/user-attachments/assets/01e8d7d8-960e-46a6-8df4-d71c613397a4" />
+  <figurecaption>Steve Byrnes's home page</figurecaption>
+  </figure>
+  
 <p align="center">
-<img style="width: 80%; height: auto;" alt="Screen shot - Steve Byrne&#39;s Home Page" src="https://github.com/user-attachments/assets/01e8d7d8-960e-46a6-8df4-d71c613397a4" />
+  <img style="width: 80%; height: auto;" alt="Screen shot - Steve Byrne&#39;s Home Page" src="https://github.com/user-attachments/assets/01e8d7d8-960e-46a6-8df4-d71c613397a4" />
+ </p> 
+ <p align="center">
+  *caption*
 </p>
-(Taken with permission from the [home page of Steve Byrne](https://sjbyrnes.com/), an author in AI Safety.)
+(https://sjbyrnes.com/)      
 
 The page shows Byrnes investing time to create a reputational asset. What things might a standard offer to add value to that asset?
 
