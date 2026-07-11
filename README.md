@@ -3,7 +3,7 @@
 # Village Link
 Villages are self-governing.
 
-**This project went into a bubble March 2026 to protect IP. The information in the repo is out of date.
+**This project went into a bubble March 2026 to protect IP. The repo is out of date.
 The project will come back into the sunlight in due course. If you are interested in the latest, contact joe.rasmussen@inky.tech.**
 
 ![github-banner](https://github.com/Inky-Tech-Pty-Ltd/Links/blob/main/images/Links%20GitHub%20Banner.jpg)
