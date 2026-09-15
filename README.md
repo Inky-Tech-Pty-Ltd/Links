@@ -1,7 +1,6 @@
 
 
 # Village Link
-Villages are self-governing.
 
 **This repo contains the archaeology of the Village Link project from prior to March 2026.**
 
