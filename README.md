@@ -2,7 +2,7 @@
 
 # Village Link
 
-**This repo contains the archaeology of the Village Link project from prior to March 2026.**
+This repo contains the archaeology of the Village Link project from prior to March 2026.
 
 **It is superseded by [VillageLink](https://github.com/Inky-Tech-Pty-Ltd/VillageLink).**
 
